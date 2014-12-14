@@ -1,0 +1,1508 @@
+[
+  {
+    "domain": "ac",
+    "country": "Ascension Island",
+    "country_title": "Ascension Island",
+    "sponsoring_organization": "Network Information Center (AC Domain Registry)\nc\/o Cable and Wireless (Ascension Island)"
+  },
+  {
+    "domain": "ad",
+    "country": "Andorra",
+    "country_title": "Andorra (Principality of)",
+    "sponsoring_organization": "Andorra Telecom"
+  },
+  {
+    "domain": "ae",
+    "country": "United Arab Emirates",
+    "country_title": "United Arab Emirates",
+    "sponsoring_organization": "Telecommunication Regulatory Authority (TRA)"
+  },
+  {
+    "domain": "af",
+    "country": "Afghanistan",
+    "country_title": "Afghanistan (Islamic Republic of)",
+    "sponsoring_organization": "Ministry of Communications and IT"
+  },
+  {
+    "domain": "ag",
+    "country": "Antigua and Barbuda",
+    "country_title": "Antigua and Barbuda",
+    "sponsoring_organization": "UHSA School of Medicine"
+  },
+  {
+    "domain": "ai",
+    "country": "Anguilla",
+    "country_title": "Anguilla",
+    "sponsoring_organization": "Government of Anguilla"
+  },
+  {
+    "domain": "al",
+    "country": "Albania",
+    "country_title": "Albania (Republic of)",
+    "sponsoring_organization": "Electronic and Postal Communications Authority - AKEP"
+  },
+  {
+    "domain": "am",
+    "country": "Armenia",
+    "country_title": "Armenia (Republic of)",
+    "sponsoring_organization": "Internet Society"
+  },
+  {
+    "domain": "an",
+    "country": "Netherlands Antilles",
+    "country_title": "Netherlands Antilles",
+    "sponsoring_organization": "University of Curacao"
+  },
+  {
+    "domain": "ao",
+    "country": "Angola",
+    "country_title": "Angola (Republic of)",
+    "sponsoring_organization": "Faculdade de Engenharia da Universidade Agostinho Neto"
+  },
+  {
+    "domain": "aq",
+    "country": "Antarctica",
+    "country_title": "Antarctica",
+    "sponsoring_organization": "Antarctica Network Information Centre Limited"
+  },
+  {
+    "domain": "ar",
+    "country": "Argentina",
+    "country_title": "Argentina (Argentine Republic)",
+    "sponsoring_organization": "Presidencia de la Naci\u00f3n \u2013 Secretar\u00eda Legal y T\u00e9cnica"
+  },
+  {
+    "domain": "as",
+    "country": "American Samoa",
+    "country_title": "American Samoa",
+    "sponsoring_organization": "AS Domain Registry"
+  },
+  {
+    "domain": "at",
+    "country": "Austria",
+    "country_title": "Austria (Republic of)",
+    "sponsoring_organization": "nic.at GmbH"
+  },
+  {
+    "domain": "au",
+    "country": "Australia",
+    "country_title": "Australia (Commonwealth of)",
+    "sponsoring_organization": ".au Domain Administration (auDA)"
+  },
+  {
+    "domain": "aw",
+    "country": "Aruba",
+    "country_title": "Aruba",
+    "sponsoring_organization": "SETAR"
+  },
+  {
+    "domain": "ax",
+    "country": "\u00c5land Islands",
+    "country_title": "\u00c5land Islands",
+    "sponsoring_organization": "\u00c5lands landskapsregering"
+  },
+  {
+    "domain": "az",
+    "country": "Azerbaijan",
+    "country_title": "Azerbaijan (Republic of)",
+    "sponsoring_organization": "IntraNS"
+  },
+  {
+    "domain": "ba",
+    "country": "Bosnia and Herzegovina",
+    "country_title": "Bosnia and Herzegovina",
+    "sponsoring_organization": "Universtiy Telinformatic Centre (UTIC)"
+  },
+  {
+    "domain": "bb",
+    "country": "Barbados",
+    "country_title": "Barbados",
+    "sponsoring_organization": "Government of Barbados\nMinistry of Economic Affairs and Development\nTelecommunications Unit"
+  },
+  {
+    "domain": "bd",
+    "country": "Bangladesh",
+    "country_title": "Bangladesh (People's Republic of)",
+    "sponsoring_organization": "Ministry of Post & Telecommunications\nBangladesh Secretariat"
+  },
+  {
+    "domain": "be",
+    "country": "Belgium",
+    "country_title": "Belgium (Kingdom of)",
+    "sponsoring_organization": "DNS Belgium vzw\/asbl"
+  },
+  {
+    "domain": "bf",
+    "country": "Burkina Faso",
+    "country_title": "Burkina Faso",
+    "sponsoring_organization": "ARCE-Autorit\u00c8 de R\u00c8gulation des Communications Electroniques"
+  },
+  {
+    "domain": "bg",
+    "country": "Bulgaria",
+    "country_title": "Bulgaria (Republic of)",
+    "sponsoring_organization": "Register.BG"
+  },
+  {
+    "domain": "bh",
+    "country": "Bahrain",
+    "country_title": "Bahrain (Kingdom of)",
+    "sponsoring_organization": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "domain": "bi",
+    "country": "Burundi",
+    "country_title": "Burundi (Republic of)",
+    "sponsoring_organization": "Centre National de l'Informatique"
+  },
+  {
+    "domain": "bj",
+    "country": "Benin",
+    "country_title": "Benin (Republic of)",
+    "sponsoring_organization": "Benin Telecoms S.A."
+  },
+  {
+    "domain": "bl",
+    "country": "Saint Barth\u00e9lemy",
+    "country_title": "Saint Barth\u00e9lemy (Collectivity of)",
+    "sponsoring_organization": "Not assigned"
+  },
+  {
+    "domain": "bm",
+    "country": "Bermuda",
+    "country_title": "Bermuda",
+    "sponsoring_organization": "Registry General\nMinistry of Labour and Immigration"
+  },
+  {
+    "domain": "bn",
+    "country": "Brunei (Nation of Brunei",
+    "country_title": "Brunei (Nation of Brunei",
+    "sponsoring_organization": "Telekom Brunei Berhad"
+  },
+  {
+    "domain": "bo",
+    "country": "Bolivia",
+    "country_title": "Bolivia (Plurinational State of)",
+    "sponsoring_organization": "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia"
+  },
+  {
+    "domain": "bq",
+    "country": "Caribbean Netherlands [Bonaire",
+    "country_title": "Caribbean Netherlands [Bonaire",
+    "sponsoring_organization": "Not assigned"
+  },
+  {
+    "domain": "br",
+    "country": "Brazil",
+    "country_title": "Brazil (Federative Republic of)",
+    "sponsoring_organization": "Comite Gestor da Internet no Brasil"
+  },
+  {
+    "domain": "bs",
+    "country": "Bahamas",
+    "country_title": "Bahamas (Commonwealth of the)",
+    "sponsoring_organization": "The College of the Bahamas"
+  },
+  {
+    "domain": "bt",
+    "country": "Bhutan",
+    "country_title": "Bhutan (Kingdom of)",
+    "sponsoring_organization": "Ministry of Information and Communications"
+  },
+  {
+    "domain": "bv",
+    "country": "Bouvet Island",
+    "country_title": "Bouvet Island",
+    "sponsoring_organization": "UNINETT Norid A\/S"
+  },
+  {
+    "domain": "bw",
+    "country": "Botswana",
+    "country_title": "Botswana (Republic of)",
+    "sponsoring_organization": "Botswana Communications Regulatory Authority (BOCRA)"
+  },
+  {
+    "domain": "by",
+    "country": "Belarus",
+    "country_title": "Belarus (Republic of)",
+    "sponsoring_organization": "Reliable Software Inc."
+  },
+  {
+    "domain": "bz",
+    "country": "Belize",
+    "country_title": "Belize",
+    "sponsoring_organization": "University of Belize"
+  },
+  {
+    "domain": "ca",
+    "country": "Canada",
+    "country_title": "Canada",
+    "sponsoring_organization": "Canadian Internet Registration Authority (CIRA)\nAutorite Canadienne pour les Enregistrements Internet (ACEI)"
+  },
+  {
+    "domain": "cc",
+    "country": "Cocos",
+    "country_title": "Cocos (Keeling) Islands (Territory of the)",
+    "sponsoring_organization": "eNIC Cocos (Keeling) Islands Pty.\nLtd. d\/b\/a Island Internet Services"
+  },
+  {
+    "domain": "cd",
+    "country": "Congo",
+    "country_title": "Congo (Democratic Republic of the)",
+    "sponsoring_organization": "Office Congolais des Postes et T\u00e9l\u00e9communications - OCPT"
+  },
+  {
+    "domain": "cf",
+    "country": "Central African Republic",
+    "country_title": "Central African Republic",
+    "sponsoring_organization": "Societe Centrafricaine de Telecommunications (SOCATEL)"
+  },
+  {
+    "domain": "cg",
+    "country": "Congo",
+    "country_title": "Congo (Republic of)",
+    "sponsoring_organization": "ONPT Congo and Interpoint Switzerland"
+  },
+  {
+    "domain": "ch",
+    "country": "Switzerland",
+    "country_title": "Switzerland (Swiss Confederation)",
+    "sponsoring_organization": "SWITCH The Swiss Education & Research Network"
+  },
+  {
+    "domain": "ci",
+    "country": "Ivory Coast",
+    "country_title": "Ivory Coast (Republic of C\u00f4te d'Ivoire)",
+    "sponsoring_organization": "INP-HB Institut National Polytechnique Felix Houphouet Boigny"
+  },
+  {
+    "domain": "ck",
+    "country": "Cook Islands",
+    "country_title": "Cook Islands",
+    "sponsoring_organization": "Telecom Cook Islands Ltd."
+  },
+  {
+    "domain": "cl",
+    "country": "Chile",
+    "country_title": "Chile (Republic of)",
+    "sponsoring_organization": "NIC Chile (University of Chile)"
+  },
+  {
+    "domain": "cm",
+    "country": "Cameroon",
+    "country_title": "Cameroon (Republic of)",
+    "sponsoring_organization": "Cameroon Telecommunications (CAMTEL)"
+  },
+  {
+    "domain": "cn",
+    "country": "China",
+    "country_title": "China (People's Republic of)",
+    "sponsoring_organization": "Computer Network Information Center, Chinese Academy of Sciences"
+  },
+  {
+    "domain": "co",
+    "country": "Colombia",
+    "country_title": "Colombia (Republic of)",
+    "sponsoring_organization": ".CO Internet S.A.S."
+  },
+  {
+    "domain": "cr",
+    "country": "Costa Rica",
+    "country_title": "Costa Rica (Republic of)",
+    "sponsoring_organization": "National Academy of Sciences\nAcademia Nacional de Ciencias"
+  },
+  {
+    "domain": "cu",
+    "country": "Cuba",
+    "country_title": "Cuba (Republic of)",
+    "sponsoring_organization": "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional"
+  },
+  {
+    "domain": "cv",
+    "country": "Cape Verde",
+    "country_title": "Cape Verde (Republic of)",
+    "sponsoring_organization": "Ag\u00eancia Nacional das Comunica\u00e7\u00f5es (ANAC)"
+  },
+  {
+    "domain": "cw",
+    "country": "Cura\u00e7ao",
+    "country_title": "Cura\u00e7ao (Country of)",
+    "sponsoring_organization": "University of Curacao"
+  },
+  {
+    "domain": "cx",
+    "country": "Christmas Island",
+    "country_title": "Christmas Island (Territory of)",
+    "sponsoring_organization": "Christmas Island Internet Administration Limited"
+  },
+  {
+    "domain": "cy",
+    "country": "Cyprus",
+    "country_title": "Cyprus (Republic of)",
+    "sponsoring_organization": "University of Cyprus"
+  },
+  {
+    "domain": "cz",
+    "country": "Czech Republic",
+    "country_title": "Czech Republic",
+    "sponsoring_organization": "CZ.NIC, z.s.p.o"
+  },
+  {
+    "domain": "de",
+    "country": "Germany",
+    "country_title": "Germany (Federal Republic of)",
+    "sponsoring_organization": "DENIC eG"
+  },
+  {
+    "domain": "dj",
+    "country": "Djibouti",
+    "country_title": "Djibouti (Republic of)",
+    "sponsoring_organization": "Djibouti Telecom S.A"
+  },
+  {
+    "domain": "dk",
+    "country": "Denmark",
+    "country_title": "Denmark (Kingdom of)",
+    "sponsoring_organization": "Dansk Internet Forum"
+  },
+  {
+    "domain": "dm",
+    "country": "Dominica",
+    "country_title": "Dominica (Commonwealth of)",
+    "sponsoring_organization": "DotDM Corporation"
+  },
+  {
+    "domain": "do",
+    "country": "Dominican Republic",
+    "country_title": "Dominican Republic",
+    "sponsoring_organization": "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino"
+  },
+  {
+    "domain": "dz",
+    "country": "Algeria",
+    "country_title": "Algeria (People's Democratic Republic of)",
+    "sponsoring_organization": "CERIST"
+  },
+  {
+    "domain": "ec",
+    "country": "Ecuador",
+    "country_title": "Ecuador (Republic of)",
+    "sponsoring_organization": "NIC.EC (NICEC) S.A."
+  },
+  {
+    "domain": "ee",
+    "country": "Estonia",
+    "country_title": "Estonia (Republic of)",
+    "sponsoring_organization": "Eesti Interneti Sihtasutus (EIS)"
+  },
+  {
+    "domain": "eg",
+    "country": "Egypt",
+    "country_title": "Egypt (Arab Republic of)",
+    "sponsoring_organization": "Egyptian Universities Network (EUN)\nSupreme Council of Universities"
+  },
+  {
+    "domain": "eh",
+    "country": "Western Sahara {reserved}",
+    "country_title": "Western Sahara {reserved}",
+    "sponsoring_organization": "Not assigned"
+  },
+  {
+    "domain": "er",
+    "country": "Eritrea",
+    "country_title": "Eritrea (State of)",
+    "sponsoring_organization": "Eritrea Telecommunication Services Corporation (EriTel)"
+  },
+  {
+    "domain": "es",
+    "country": "Spain",
+    "country_title": "Spain (Kingdom of)",
+    "sponsoring_organization": "Red.es"
+  },
+  {
+    "domain": "et",
+    "country": "Ethiopia",
+    "country_title": "Ethiopia (Federal Democratic Republic of)",
+    "sponsoring_organization": "Ethio telecom"
+  },
+  {
+    "domain": "eu",
+    "country": "European Union",
+    "country_title": "European Union",
+    "sponsoring_organization": "EURid vzw\/asbl"
+  },
+  {
+    "domain": "fi",
+    "country": "Finland",
+    "country_title": "Finland (Republic of)",
+    "sponsoring_organization": "Finnish Communications Regulatory Authority"
+  },
+  {
+    "domain": "fj",
+    "country": "Fiji",
+    "country_title": "Fiji (Republic of)",
+    "sponsoring_organization": "The University of the South Pacific\nIT Services"
+  },
+  {
+    "domain": "fk",
+    "country": "Falkland Islands",
+    "country_title": "Falkland Islands (Malvinas)",
+    "sponsoring_organization": "Falkland Islands Government"
+  },
+  {
+    "domain": "fm",
+    "country": "Micronesia",
+    "country_title": "Micronesia (Federated States of)",
+    "sponsoring_organization": "FSM Telecommunications Corporation"
+  },
+  {
+    "domain": "fo",
+    "country": "Faroe Islands",
+    "country_title": "Faroe Islands",
+    "sponsoring_organization": "FO Council"
+  },
+  {
+    "domain": "fr",
+    "country": "France",
+    "country_title": "France (French Republic)",
+    "sponsoring_organization": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)"
+  },
+  {
+    "domain": "ga",
+    "country": "Gabon",
+    "country_title": "Gabon (Gabonese Republic)",
+    "sponsoring_organization": "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)"
+  },
+  {
+    "domain": "gb",
+    "country": "United Kingdom",
+    "country_title": "United Kingdom (United Kingdom of Great Britain and Northern Ireland)",
+    "sponsoring_organization": "Reserved Domain - IANA"
+  },
+  {
+    "domain": "gd",
+    "country": "Grenada",
+    "country_title": "Grenada",
+    "sponsoring_organization": "The National Telecommunications Regulatory Commission (NTRC)"
+  },
+  {
+    "domain": "ge",
+    "country": "Georgia",
+    "country_title": "Georgia",
+    "sponsoring_organization": "Caucasus Online"
+  },
+  {
+    "domain": "gf",
+    "country": "French Guiana",
+    "country_title": "French Guiana",
+    "sponsoring_organization": "Net Plus"
+  },
+  {
+    "domain": "gg",
+    "country": "Guernsey",
+    "country_title": "Guernsey (Bailiwick of)",
+    "sponsoring_organization": "Island Networks Ltd."
+  },
+  {
+    "domain": "gh",
+    "country": "Ghana",
+    "country_title": "Ghana (Republic of)",
+    "sponsoring_organization": "Network Computer Systems Limited"
+  },
+  {
+    "domain": "gi",
+    "country": "Gibraltar",
+    "country_title": "Gibraltar",
+    "sponsoring_organization": "Sapphire Networks"
+  },
+  {
+    "domain": "gl",
+    "country": "Greenland",
+    "country_title": "Greenland",
+    "sponsoring_organization": "TELE Greenland A\/S"
+  },
+  {
+    "domain": "gm",
+    "country": "Gambia",
+    "country_title": "Gambia (Republic of The)",
+    "sponsoring_organization": "GM-NIC"
+  },
+  {
+    "domain": "gn",
+    "country": "Guinea",
+    "country_title": "Guinea (Republic of)",
+    "sponsoring_organization": "Centre National des Sciences Halieutiques de Boussoura"
+  },
+  {
+    "domain": "gp",
+    "country": "Guadeloupe",
+    "country_title": "Guadeloupe",
+    "sponsoring_organization": "Networking Technologies Group"
+  },
+  {
+    "domain": "gq",
+    "country": "Equatorial Guinea",
+    "country_title": "Equatorial Guinea (Republic of)",
+    "sponsoring_organization": "GETESA"
+  },
+  {
+    "domain": "gr",
+    "country": "Greece",
+    "country_title": "Greece (Hellenic Republic)",
+    "sponsoring_organization": "ICS-FORTH GR"
+  },
+  {
+    "domain": "gs",
+    "country": "South Georgia and the South Sandwich Islands",
+    "country_title": "South Georgia and the South Sandwich Islands",
+    "sponsoring_organization": "Government of South Georgia and South Sandwich Islands (GSGSSI)"
+  },
+  {
+    "domain": "gt",
+    "country": "Guatemala",
+    "country_title": "Guatemala (Republic of)",
+    "sponsoring_organization": "Universidad del Valle de Guatemala"
+  },
+  {
+    "domain": "gu",
+    "country": "Guam",
+    "country_title": "Guam",
+    "sponsoring_organization": "University of Guam\nComputer Center"
+  },
+  {
+    "domain": "gw",
+    "country": "Guinea-Bissau",
+    "country_title": "Guinea-Bissau (Republic of)",
+    "sponsoring_organization": "Autoridade Reguladora Nacional - Tecnologias de Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o da Guin\u00e9-Bissau"
+  },
+  {
+    "domain": "gy",
+    "country": "Guyana",
+    "country_title": "Guyana (Co-operative Republic of)",
+    "sponsoring_organization": "University of Guyana"
+  },
+  {
+    "domain": "hk",
+    "country": "Hong Kong",
+    "country_title": "Hong Kong (Hong Kong Special Administrative Region of the People's Republic of China)",
+    "sponsoring_organization": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "domain": "hm",
+    "country": "Heard Island and McDonald Islands",
+    "country_title": "Heard Island and McDonald Islands",
+    "sponsoring_organization": "HM Domain Registry"
+  },
+  {
+    "domain": "hn",
+    "country": "Honduras",
+    "country_title": "Honduras (Republic of)",
+    "sponsoring_organization": "Red de Desarrollo Sostenible Honduras"
+  },
+  {
+    "domain": "hr",
+    "country": "Croatia",
+    "country_title": "Croatia (Republic of)",
+    "sponsoring_organization": "CARNet - Croatian Academic and Research Network"
+  },
+  {
+    "domain": "ht",
+    "country": "Haiti",
+    "country_title": "Haiti (Republic of)",
+    "sponsoring_organization": "Consortium FDS\/RDDH"
+  },
+  {
+    "domain": "hu",
+    "country": "Hungary",
+    "country_title": "Hungary",
+    "sponsoring_organization": "Council of Hungarian Internet Providers (CHIP)"
+  },
+  {
+    "domain": "id",
+    "country": "Indonesia",
+    "country_title": "Indonesia (Republic of)",
+    "sponsoring_organization": "Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)"
+  },
+  {
+    "domain": "ie",
+    "country": "Ireland",
+    "country_title": "Ireland (Republic of)",
+    "sponsoring_organization": "University College Dublin\nComputing Services\nComputer Centre"
+  },
+  {
+    "domain": "il",
+    "country": "Israel",
+    "country_title": "Israel (State of)",
+    "sponsoring_organization": "Internet Society of Israel"
+  },
+  {
+    "domain": "im",
+    "country": "Isle of Man",
+    "country_title": "Isle of Man",
+    "sponsoring_organization": "Isle of Man Government"
+  },
+  {
+    "domain": "in",
+    "country": "India",
+    "country_title": "India (Republic of)",
+    "sponsoring_organization": "National Internet Exchange of India"
+  },
+  {
+    "domain": "io",
+    "country": "British Indian Ocean Territory",
+    "country_title": "British Indian Ocean Territory",
+    "sponsoring_organization": "IO Top Level Domain Registry\nCable and Wireless"
+  },
+  {
+    "domain": "iq",
+    "country": "Iraq",
+    "country_title": "Iraq (Republic of)",
+    "sponsoring_organization": "Communications and Media Commission (CMC)"
+  },
+  {
+    "domain": "ir",
+    "country": "Iran",
+    "country_title": "Iran (Islamic Republic of)",
+    "sponsoring_organization": "Institute for Research in Fundamental Sciences"
+  },
+  {
+    "domain": "is",
+    "country": "Iceland",
+    "country_title": "Iceland",
+    "sponsoring_organization": "ISNIC - Internet Iceland ltd."
+  },
+  {
+    "domain": "it",
+    "country": "Italy",
+    "country_title": "Italy (Italian Republic)",
+    "sponsoring_organization": "IIT - CNR"
+  },
+  {
+    "domain": "je",
+    "country": "Jersey",
+    "country_title": "Jersey (Bailiwick of)",
+    "sponsoring_organization": "Island Networks (Jersey) Ltd."
+  },
+  {
+    "domain": "jm",
+    "country": "Jamaica",
+    "country_title": "Jamaica (Commonwealth of)",
+    "sponsoring_organization": "University of West Indies"
+  },
+  {
+    "domain": "jo",
+    "country": "Jordan",
+    "country_title": "Jordan (Hashemite Kingdom of)",
+    "sponsoring_organization": "National Information Technology Center (NITC)"
+  },
+  {
+    "domain": "jp",
+    "country": "Japan",
+    "country_title": "Japan",
+    "sponsoring_organization": "Japan Registry Services Co., Ltd."
+  },
+  {
+    "domain": "ke",
+    "country": "Kenya",
+    "country_title": "Kenya (Republic of)",
+    "sponsoring_organization": "Kenya Network Information Center (KeNIC)"
+  },
+  {
+    "domain": "kg",
+    "country": "Kyrgyzstan",
+    "country_title": "Kyrgyzstan (Kyrgyz Republic)",
+    "sponsoring_organization": "AsiaInfo Telecommunication Enterprise"
+  },
+  {
+    "domain": "kh",
+    "country": "Cambodia",
+    "country_title": "Cambodia (Kingdom of)",
+    "sponsoring_organization": "Ministry of Post and Telecommunications"
+  },
+  {
+    "domain": "ki",
+    "country": "Kiribati",
+    "country_title": "Kiribati (Republic of)",
+    "sponsoring_organization": "Ministry of Communications, Transport, and Tourism Development"
+  },
+  {
+    "domain": "km",
+    "country": "Comoros",
+    "country_title": "Comoros (Union of the)",
+    "sponsoring_organization": "Comores Telecom"
+  },
+  {
+    "domain": "kn",
+    "country": "Saint Kitts and Nevis",
+    "country_title": "Saint Kitts and Nevis (Federation of)",
+    "sponsoring_organization": "Ministry of Finance, Sustainable Development Information & Technology"
+  },
+  {
+    "domain": "kp",
+    "country": "Korea",
+    "country_title": "Korea (Democratic People's Republic of)",
+    "sponsoring_organization": "Star Joint Venture Company"
+  },
+  {
+    "domain": "kr",
+    "country": "Korea (Republic of",
+    "country_title": "Korea (Republic of",
+    "sponsoring_organization": "Korea Internet & Security Agency (KISA)"
+  },
+  {
+    "domain": "kw",
+    "country": "Kuwait",
+    "country_title": "Kuwait (State of Kuwait)",
+    "sponsoring_organization": "Ministry of Communications"
+  },
+  {
+    "domain": "ky",
+    "country": "Cayman Islands",
+    "country_title": "Cayman Islands",
+    "sponsoring_organization": "The Information and Communications Technology Authority"
+  },
+  {
+    "domain": "kz",
+    "country": "Kazakhstan",
+    "country_title": "Kazakhstan (Republic of)",
+    "sponsoring_organization": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "domain": "la",
+    "country": "Laos",
+    "country_title": "Laos (Lao People's Democratic Republic)",
+    "sponsoring_organization": "Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications"
+  },
+  {
+    "domain": "lb",
+    "country": "Lebanon",
+    "country_title": "Lebanon (Lebanese Republic)",
+    "sponsoring_organization": "American University of Beirut\nComputing and Networking Services"
+  },
+  {
+    "domain": "lc",
+    "country": "Saint Lucia",
+    "country_title": "Saint Lucia",
+    "sponsoring_organization": "University of Puerto Rico"
+  },
+  {
+    "domain": "li",
+    "country": "Liechtenstein",
+    "country_title": "Liechtenstein (Principality of)",
+    "sponsoring_organization": "Universitaet Liechtenstein"
+  },
+  {
+    "domain": "lk",
+    "country": "Sri Lanka",
+    "country_title": "Sri Lanka (Democratic Socialist Republic of)",
+    "sponsoring_organization": "Council for Information Technology\nLK Domain Registrar"
+  },
+  {
+    "domain": "lr",
+    "country": "Liberia",
+    "country_title": "Liberia (Republic of)",
+    "sponsoring_organization": "Data Technology Solutions, Inc."
+  },
+  {
+    "domain": "ls",
+    "country": "Lesotho",
+    "country_title": "Lesotho (Kingdom of)",
+    "sponsoring_organization": "National University of Lesotho"
+  },
+  {
+    "domain": "lt",
+    "country": "Lithuania",
+    "country_title": "Lithuania (Republic of)",
+    "sponsoring_organization": "Kaunas University of Technology"
+  },
+  {
+    "domain": "lu",
+    "country": "Luxembourg",
+    "country_title": "Luxembourg (Grand Duchy of)",
+    "sponsoring_organization": "RESTENA"
+  },
+  {
+    "domain": "lv",
+    "country": "Latvia",
+    "country_title": "Latvia (Republic of)",
+    "sponsoring_organization": "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)"
+  },
+  {
+    "domain": "ly",
+    "country": "Libya",
+    "country_title": "Libya",
+    "sponsoring_organization": "General Post and Telecommunication Company"
+  },
+  {
+    "domain": "ma",
+    "country": "Morocco",
+    "country_title": "Morocco",
+    "sponsoring_organization": "Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)"
+  },
+  {
+    "domain": "mc",
+    "country": "Monaco",
+    "country_title": "Monaco (Principality of)",
+    "sponsoring_organization": "Gouvernement de Monaco\nDirection des Communications Electroniques"
+  },
+  {
+    "domain": "md",
+    "country": "Moldova",
+    "country_title": "Moldova (Republic of)",
+    "sponsoring_organization": "MoldData S.E."
+  },
+  {
+    "domain": "me",
+    "country": "Montenegro",
+    "country_title": "Montenegro",
+    "sponsoring_organization": "Government of Montenegro"
+  },
+  {
+    "domain": "mg",
+    "country": "Madagascar",
+    "country_title": "Madagascar (Republic of)",
+    "sponsoring_organization": "NIC-MG (Network Information Center Madagascar)"
+  },
+  {
+    "domain": "mh",
+    "country": "Marshall Islands",
+    "country_title": "Marshall Islands (Republic of the)",
+    "sponsoring_organization": "Office of the Cabinet"
+  },
+  {
+    "domain": "mk",
+    "country": "Macedonia",
+    "country_title": "Macedonia (Republic of)",
+    "sponsoring_organization": "Macedonian Academic Research Network Skopje"
+  },
+  {
+    "domain": "ml",
+    "country": "Mali",
+    "country_title": "Mali (Republic of)",
+    "sponsoring_organization": "Agence des Technologies de l\u2019Information et de la Communication"
+  },
+  {
+    "domain": "mm",
+    "country": "Myanmar",
+    "country_title": "Myanmar (Republic of the Union of)",
+    "sponsoring_organization": "Ministry of Communications, Posts & Telegraphs"
+  },
+  {
+    "domain": "mn",
+    "country": "Mongolia",
+    "country_title": "Mongolia",
+    "sponsoring_organization": "Datacom Co., Ltd."
+  },
+  {
+    "domain": "mo",
+    "country": "Macau",
+    "country_title": "Macau (Macau Special Administrative Region of the People's Republic of China)",
+    "sponsoring_organization": "Bureau of Telecommunications Regulation (DSRT)"
+  },
+  {
+    "domain": "mp",
+    "country": "Northern Mariana Islands",
+    "country_title": "Northern Mariana Islands (Commonwealth of the)",
+    "sponsoring_organization": "Saipan Datacom, Inc."
+  },
+  {
+    "domain": "mq",
+    "country": "Martinique",
+    "country_title": "Martinique",
+    "sponsoring_organization": "MEDIASERV"
+  },
+  {
+    "domain": "mr",
+    "country": "Mauritania",
+    "country_title": "Mauritania (Islamic Republic of)",
+    "sponsoring_organization": "University of Nouakchott"
+  },
+  {
+    "domain": "ms",
+    "country": "Montserrat",
+    "country_title": "Montserrat",
+    "sponsoring_organization": "MNI Networks Ltd."
+  },
+  {
+    "domain": "mt",
+    "country": "Malta",
+    "country_title": "Malta (Republic of)",
+    "sponsoring_organization": "NIC (Malta)"
+  },
+  {
+    "domain": "mu",
+    "country": "Mauritius",
+    "country_title": "Mauritius (Republic of)",
+    "sponsoring_organization": "Internet Direct Ltd"
+  },
+  {
+    "domain": "mv",
+    "country": "Maldives",
+    "country_title": "Maldives (Republic of)",
+    "sponsoring_organization": "Dhiraagu Pvt. Ltd. (DHIVEHINET)"
+  },
+  {
+    "domain": "mw",
+    "country": "Malawi",
+    "country_title": "Malawi (Republic of)",
+    "sponsoring_organization": "Malawi Sustainable Development Network Programme\n(Malawi SDNP)"
+  },
+  {
+    "domain": "mx",
+    "country": "Mexico",
+    "country_title": "Mexico (United Mexican States)",
+    "sponsoring_organization": "NIC-Mexico\nITESM - Campus Monterrey"
+  },
+  {
+    "domain": "my",
+    "country": "Malaysia",
+    "country_title": "Malaysia",
+    "sponsoring_organization": "MYNIC Berhad"
+  },
+  {
+    "domain": "mz",
+    "country": "Mozambique",
+    "country_title": "Mozambique (Republic of)",
+    "sponsoring_organization": "Centro de Informatica de Universidade Eduardo Mondlane"
+  },
+  {
+    "domain": "na",
+    "country": "Namibia",
+    "country_title": "Namibia (Republic of)",
+    "sponsoring_organization": "Namibian Network Information Center"
+  },
+  {
+    "domain": "nc",
+    "country": "New Caledonia",
+    "country_title": "New Caledonia",
+    "sponsoring_organization": "Office des Postes et Telecommunications"
+  },
+  {
+    "domain": "ne",
+    "country": "Niger",
+    "country_title": "Niger (Republic of)",
+    "sponsoring_organization": "SONITEL"
+  },
+  {
+    "domain": "nf",
+    "country": "Norfolk Island",
+    "country_title": "Norfolk Island (Territory of)",
+    "sponsoring_organization": "Norfolk Island Data Services"
+  },
+  {
+    "domain": "ng",
+    "country": "Nigeria",
+    "country_title": "Nigeria (Federal Republic of)",
+    "sponsoring_organization": "Nigeria Internet Registration Association"
+  },
+  {
+    "domain": "ni",
+    "country": "Nicaragua",
+    "country_title": "Nicaragua (Republic of)",
+    "sponsoring_organization": "Universidad Nacional del Ingernieria\nCentro de Computo"
+  },
+  {
+    "domain": "nl",
+    "country": "Netherlands",
+    "country_title": "Netherlands",
+    "sponsoring_organization": "SIDN (Stichting Internet  Domeinregistratie Nederland)"
+  },
+  {
+    "domain": "no",
+    "country": "Norway",
+    "country_title": "Norway (Kingdom of)",
+    "sponsoring_organization": "UNINETT Norid A\/S"
+  },
+  {
+    "domain": "np",
+    "country": "Nepal",
+    "country_title": "Nepal (Federal Democratic Republic of)",
+    "sponsoring_organization": "Mercantile Communications Pvt. Ltd."
+  },
+  {
+    "domain": "nr",
+    "country": "Nauru",
+    "country_title": "Nauru (Republic of)",
+    "sponsoring_organization": "CENPAC NET"
+  },
+  {
+    "domain": "nu",
+    "country": "Niue",
+    "country_title": "Niue",
+    "sponsoring_organization": "The IUSN Foundation"
+  },
+  {
+    "domain": "nz",
+    "country": "New Zealand",
+    "country_title": "New Zealand",
+    "sponsoring_organization": "InternetNZ"
+  },
+  {
+    "domain": "om",
+    "country": "Oman",
+    "country_title": "Oman (Sultanate of)",
+    "sponsoring_organization": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "domain": "pa",
+    "country": "Panama",
+    "country_title": "Panama (Republic of)",
+    "sponsoring_organization": "Universidad Tecnologica de Panama"
+  },
+  {
+    "domain": "pe",
+    "country": "Peru",
+    "country_title": "Peru (Republic of)",
+    "sponsoring_organization": "Red Cientifica Peruana"
+  },
+  {
+    "domain": "pf",
+    "country": "French Polynesia and Clipperton Island",
+    "country_title": "French Polynesia and Clipperton Island",
+    "sponsoring_organization": "Gouvernement de la Polyn\u00e9sie fran\u00e7aise"
+  },
+  {
+    "domain": "pg",
+    "country": "Papua New Guinea",
+    "country_title": "Papua New Guinea (Independent State of)",
+    "sponsoring_organization": "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology"
+  },
+  {
+    "domain": "ph",
+    "country": "Philippines",
+    "country_title": "Philippines (Republic of the)",
+    "sponsoring_organization": "PH Domain Foundation"
+  },
+  {
+    "domain": "pk",
+    "country": "Pakistan",
+    "country_title": "Pakistan (Islamic Republic of)",
+    "sponsoring_organization": "PKNIC"
+  },
+  {
+    "domain": "pl",
+    "country": "Poland",
+    "country_title": "Poland (Republic of)",
+    "sponsoring_organization": "Research and Academic Computer Network"
+  },
+  {
+    "domain": "pm",
+    "country": "Saint Pierre and Miquelon",
+    "country_title": "Saint Pierre and Miquelon",
+    "sponsoring_organization": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)"
+  },
+  {
+    "domain": "pn",
+    "country": "Pitcairn Islands (Pitcairn",
+    "country_title": "Pitcairn Islands (Pitcairn",
+    "sponsoring_organization": "Pitcairn Island Administration"
+  },
+  {
+    "domain": "pr",
+    "country": "Puerto Rico",
+    "country_title": "Puerto Rico (Commonwealth of)",
+    "sponsoring_organization": "Gauss Research Laboratory Inc."
+  },
+  {
+    "domain": "ps",
+    "country": "Palestine",
+    "country_title": "Palestine (State of)",
+    "sponsoring_organization": "Ministry Of Telecommunications &\nInformation Technology,\nGovernment Computer Center."
+  },
+  {
+    "domain": "pt",
+    "country": "Portugal",
+    "country_title": "Portugal (Portuguese Republic)",
+    "sponsoring_organization": "Associa\u00e7\u00e3o DNS.PT"
+  },
+  {
+    "domain": "pw",
+    "country": "Palau",
+    "country_title": "Palau (Republic of)",
+    "sponsoring_organization": "Micronesia Investment and Development Corporation"
+  },
+  {
+    "domain": "py",
+    "country": "Paraguay",
+    "country_title": "Paraguay (Republic of)",
+    "sponsoring_organization": "NIC-PY"
+  },
+  {
+    "domain": "qa",
+    "country": "Qatar",
+    "country_title": "Qatar (State of)",
+    "sponsoring_organization": "Communications Regulatory Authority"
+  },
+  {
+    "domain": "re",
+    "country": "R\u00e9union",
+    "country_title": "R\u00e9union",
+    "sponsoring_organization": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)"
+  },
+  {
+    "domain": "ro",
+    "country": "Romania",
+    "country_title": "Romania",
+    "sponsoring_organization": "National Institute for R&D in Informatics"
+  },
+  {
+    "domain": "rs",
+    "country": "Serbia",
+    "country_title": "Serbia (Republic of)",
+    "sponsoring_organization": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  {
+    "domain": "ru",
+    "country": "Russia",
+    "country_title": "Russia (Russian Federation)",
+    "sponsoring_organization": "Coordination Center for TLD RU"
+  },
+  {
+    "domain": "rw",
+    "country": "Rwanda",
+    "country_title": "Rwanda (Republic of)",
+    "sponsoring_organization": "Rwanda Information Communication and Technology Association (RICTA)"
+  },
+  {
+    "domain": "sa",
+    "country": "Saudi Arabia",
+    "country_title": "Saudi Arabia (Kingdom of)",
+    "sponsoring_organization": "Communications and Information Technology Commission"
+  },
+  {
+    "domain": "sb",
+    "country": "Solomon Islands",
+    "country_title": "Solomon Islands",
+    "sponsoring_organization": "Solomon Telekom Company Limited"
+  },
+  {
+    "domain": "sc",
+    "country": "Seychelles",
+    "country_title": "Seychelles (Republic of)",
+    "sponsoring_organization": "VCS Pty Ltd"
+  },
+  {
+    "domain": "sd",
+    "country": "Sudan",
+    "country_title": "Sudan (Republic of)",
+    "sponsoring_organization": "Sudan Internet Society"
+  },
+  {
+    "domain": "se",
+    "country": "Sweden",
+    "country_title": "Sweden (Kingdom of)",
+    "sponsoring_organization": "The Internet Infrastructure Foundation"
+  },
+  {
+    "domain": "sg",
+    "country": "Singapore",
+    "country_title": "Singapore (Republic of)",
+    "sponsoring_organization": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "domain": "sh",
+    "country": "Saint Helena",
+    "country_title": "Saint Helena",
+    "sponsoring_organization": "Government of St. Helena"
+  },
+  {
+    "domain": "si",
+    "country": "Slovenia",
+    "country_title": "Slovenia (Republic of)",
+    "sponsoring_organization": "Academic and Research Network of Slovenia (ARNES)"
+  },
+  {
+    "domain": "sk",
+    "country": "Slovakia",
+    "country_title": "Slovakia (Slovak Republic)",
+    "sponsoring_organization": "SK-NIC, a.s."
+  },
+  {
+    "domain": "sl",
+    "country": "Sierra Leone",
+    "country_title": "Sierra Leone (Republic of)",
+    "sponsoring_organization": "Sierratel"
+  },
+  {
+    "domain": "sm",
+    "country": "San Marino",
+    "country_title": "San Marino (Republic of)",
+    "sponsoring_organization": "Telecom Italia San Marino S.p.A."
+  },
+  {
+    "domain": "sn",
+    "country": "Senegal",
+    "country_title": "Senegal (Republic of)",
+    "sponsoring_organization": "Universite Cheikh Anta Diop\nNIC Senegal"
+  },
+  {
+    "domain": "so",
+    "country": "Somalia",
+    "country_title": "Somalia (Federal Republic of)",
+    "sponsoring_organization": "Ministry of Post and Telecommunications"
+  },
+  {
+    "domain": "sr",
+    "country": "Suriname",
+    "country_title": "Suriname (Republic of)",
+    "sponsoring_organization": "Telesur"
+  },
+  {
+    "domain": "ss",
+    "country": "South Sudan",
+    "country_title": "South Sudan (Republic of)",
+    "sponsoring_organization": "Not assigned"
+  },
+  {
+    "domain": "st",
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "country_title": "S\u00e3o Tom\u00e9 and Pr\u00edncipe (Democratic Republic of)",
+    "sponsoring_organization": "Tecnisys"
+  },
+  {
+    "domain": "su",
+    "country": "Soviet Union",
+    "country_title": "Soviet Union (Union of Soviet Socialist Republics)",
+    "sponsoring_organization": "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
+  },
+  {
+    "domain": "sv",
+    "country": "El Salvador",
+    "country_title": "El Salvador (Republic of)",
+    "sponsoring_organization": "SVNet"
+  },
+  {
+    "domain": "sx",
+    "country": "Sint Maarten",
+    "country_title": "Sint Maarten",
+    "sponsoring_organization": "SX Registry SA B.V."
+  },
+  {
+    "domain": "sy",
+    "country": "Syria",
+    "country_title": "Syria (Syrian Arab Republic)",
+    "sponsoring_organization": "National Agency for Network Services (NANS)"
+  },
+  {
+    "domain": "sz",
+    "country": "Swaziland",
+    "country_title": "Swaziland (Kingdom of)",
+    "sponsoring_organization": "University of Swaziland\nDepartment of Computer Science"
+  },
+  {
+    "domain": "tc",
+    "country": "Turks and Caicos Islands",
+    "country_title": "Turks and Caicos Islands",
+    "sponsoring_organization": "Melrex TC"
+  },
+  {
+    "domain": "td",
+    "country": "Chad",
+    "country_title": "Chad (Republic of)",
+    "sponsoring_organization": "Soci\u00e9t\u00e9 des t\u00e9l\u00e9communications du Tchad (SOTEL TCHAD)"
+  },
+  {
+    "domain": "tf",
+    "country": "French Southern and Antarctic Lands",
+    "country_title": "French Southern and Antarctic Lands (Territory of the)",
+    "sponsoring_organization": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)"
+  },
+  {
+    "domain": "tg",
+    "country": "Togo",
+    "country_title": "Togo (Togolese Republic)",
+    "sponsoring_organization": "Cafe Informatique et Telecommunications"
+  },
+  {
+    "domain": "th",
+    "country": "Thailand",
+    "country_title": "Thailand (Kingdom of)",
+    "sponsoring_organization": "Thai Network Information Center Foundation"
+  },
+  {
+    "domain": "tj",
+    "country": "Tajikistan",
+    "country_title": "Tajikistan (Republic of)",
+    "sponsoring_organization": "Information Technology Center"
+  },
+  {
+    "domain": "tk",
+    "country": "Tokelau",
+    "country_title": "Tokelau",
+    "sponsoring_organization": "Telecommunication Tokelau Corporation (Teletok)"
+  },
+  {
+    "domain": "tl",
+    "country": "Timor-Leste",
+    "country_title": "Timor-Leste (Democratic Republic of)",
+    "sponsoring_organization": "Ministry of Transport and  Communications; National Division of  Information and Technology"
+  },
+  {
+    "domain": "tm",
+    "country": "Turkmenistan",
+    "country_title": "Turkmenistan",
+    "sponsoring_organization": "TM Domain Registry Ltd"
+  },
+  {
+    "domain": "tn",
+    "country": "Tunisia",
+    "country_title": "Tunisia (Republic of)",
+    "sponsoring_organization": "Agence Tunisienne d'Internet"
+  },
+  {
+    "domain": "to",
+    "country": "Tonga",
+    "country_title": "Tonga (Kingdom of)",
+    "sponsoring_organization": "Government of the Kingdom of Tonga\nH.R.H. Crown Prince Tupouto'a\nc\/o Consulate of Tonga"
+  },
+  {
+    "domain": "tr",
+    "country": "Turkey",
+    "country_title": "Turkey (Republic of)",
+    "sponsoring_organization": "Middle East Technical University\nDepartment of Computer Engineering"
+  },
+  {
+    "domain": "tt",
+    "country": "Trinidad and Tobago",
+    "country_title": "Trinidad and Tobago (Republic of)",
+    "sponsoring_organization": "University of the West Indies\nFaculty of Engineering"
+  },
+  {
+    "domain": "tv",
+    "country": "Tuvalu",
+    "country_title": "Tuvalu",
+    "sponsoring_organization": "Ministry of Finance and Tourism"
+  },
+  {
+    "domain": "tw",
+    "country": "Taiwan",
+    "country_title": "Taiwan (Republic of China)",
+    "sponsoring_organization": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "domain": "tz",
+    "country": "Tanzania",
+    "country_title": "Tanzania (United Republic of)",
+    "sponsoring_organization": "Tanzania Network Information Centre (tzNIC)"
+  },
+  {
+    "domain": "ua",
+    "country": "Ukraine",
+    "country_title": "Ukraine",
+    "sponsoring_organization": "Hostmaster Ltd."
+  },
+  {
+    "domain": "ug",
+    "country": "Uganda",
+    "country_title": "Uganda (Republic of)",
+    "sponsoring_organization": "Uganda Online Ltd."
+  },
+  {
+    "domain": "uk",
+    "country": "United Kingdom",
+    "country_title": "United Kingdom (United Kingdom of Great Britain and Northern Ireland)",
+    "sponsoring_organization": "Nominet UK"
+  },
+  {
+    "domain": "us",
+    "country": "United States of America and United States Minor Outlying Islands",
+    "country_title": "United States of America and United States Minor Outlying Islands",
+    "sponsoring_organization": "NeuStar, Inc."
+  },
+  {
+    "domain": "uy",
+    "country": "Uruguay",
+    "country_title": "Uruguay (Oriental Republic of)",
+    "sponsoring_organization": "SeCIU - Universidad de la Republica"
+  },
+  {
+    "domain": "uz",
+    "country": "Uzbekistan",
+    "country_title": "Uzbekistan (Republic of)",
+    "sponsoring_organization": "Computerization and Information Technologies Developing Center\nUZINFOCOM"
+  },
+  {
+    "domain": "va",
+    "country": "Vatican City",
+    "country_title": "Vatican City (Vatican City State)",
+    "sponsoring_organization": "Holy See Secretariat of State Department of Telecommunications"
+  },
+  {
+    "domain": "vc",
+    "country": "Saint Vincent and the Grenadines",
+    "country_title": "Saint Vincent and the Grenadines",
+    "sponsoring_organization": "Ministry of Telecommunications, Science, Technology and Industry"
+  },
+  {
+    "domain": "ve",
+    "country": "Venezuela",
+    "country_title": "Venezuela (Bolivarian Republic of)",
+    "sponsoring_organization": "Comisi\u00f3n Nacional de Telecomunicaciones (CONATEL)"
+  },
+  {
+    "domain": "vg",
+    "country": "British Virgin Islands",
+    "country_title": "British Virgin Islands (Virgin Islands)",
+    "sponsoring_organization": "Telecommunications Regulatory Commission of the Virgin Islands"
+  },
+  {
+    "domain": "vi",
+    "country": "United States Virgin Islands",
+    "country_title": "United States Virgin Islands (United States Virgin Islands)",
+    "sponsoring_organization": "Virgin Islands Public Telcommunications System\nc\/o COBEX Internet Services"
+  },
+  {
+    "domain": "vn",
+    "country": "Vietnam",
+    "country_title": "Vietnam (Socialist Republic of)",
+    "sponsoring_organization": "Ministry of Information and Communications of Socialist Republic of Viet Nam"
+  },
+  {
+    "domain": "vu",
+    "country": "Vanuatu",
+    "country_title": "Vanuatu (Republic of)",
+    "sponsoring_organization": "Telecom Vanuatu Limited"
+  },
+  {
+    "domain": "wf",
+    "country": "Wallis and Futuna",
+    "country_title": "Wallis and Futuna (Territory of the Wallis and Futuna Islands)",
+    "sponsoring_organization": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)"
+  },
+  {
+    "domain": "ws",
+    "country": "Samoa",
+    "country_title": "Samoa (Independent State of)",
+    "sponsoring_organization": "Government of Samoa Ministry of Foreign Affairs & Trade"
+  },
+  {
+    "domain": "ye",
+    "country": "Yemen",
+    "country_title": "Yemen (Republic of)",
+    "sponsoring_organization": "TeleYemen"
+  },
+  {
+    "domain": "yt",
+    "country": "Mayotte",
+    "country_title": "Mayotte (Department of)",
+    "sponsoring_organization": "Association Fran\u00e7aise pour le Nommage Internet en Coop\u00e9ration (A.F.N.I.C.)"
+  },
+  {
+    "domain": "za",
+    "country": "South Africa",
+    "country_title": "South Africa (Republic of)",
+    "sponsoring_organization": "ZA Domain Name Authority"
+  },
+  {
+    "domain": "zm",
+    "country": "Zambia",
+    "country_title": "Zambia (Republic of)",
+    "sponsoring_organization": "Zambia Information and Communications Technology Authority (ZICTA)"
+  },
+  {
+    "domain": "zw",
+    "country": "Zimbabwe",
+    "country_title": "Zimbabwe (Republic of)",
+    "sponsoring_organization": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)"
+  }
+]
