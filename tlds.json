@@ -1,0 +1,1102 @@
+[
+  {
+    "domain": "ac",
+    "description": "Ascension Island"
+  },
+  {
+    "domain": "ad",
+    "description": "Andorra (Principality of)"
+  },
+  {
+    "domain": "ae",
+    "description": "United Arab Emirates"
+  },
+  {
+    "domain": "aero",
+    "description": "Air-transport industry"
+  },
+  {
+    "domain": "af",
+    "description": "Afghanistan (Islamic Republic of)"
+  },
+  {
+    "domain": "ag",
+    "description": "Antigua and Barbuda"
+  },
+  {
+    "domain": "ai",
+    "description": "Anguilla"
+  },
+  {
+    "domain": "al",
+    "description": "Albania (Republic of)"
+  },
+  {
+    "domain": "am",
+    "description": "Armenia (Republic of)"
+  },
+  {
+    "domain": "an",
+    "description": "Netherlands Antilles"
+  },
+  {
+    "domain": "ao",
+    "description": "Angola (Republic of)"
+  },
+  {
+    "domain": "aq",
+    "description": "Antarctica"
+  },
+  {
+    "domain": "ar",
+    "description": "Argentina (Argentine Republic)"
+  },
+  {
+    "domain": "arpa",
+    "description": "Address and Routing Parameter Area"
+  },
+  {
+    "domain": "as",
+    "description": "American Samoa"
+  },
+  {
+    "domain": "asia",
+    "description": "Organisations and individuals in the Asia-Pacific region"
+  },
+  {
+    "domain": "at",
+    "description": "Austria (Republic of)"
+  },
+  {
+    "domain": "au",
+    "description": "Australia (Commonwealth of)"
+  },
+  {
+    "domain": "aw",
+    "description": "Aruba"
+  },
+  {
+    "domain": "ax",
+    "description": "Åland Islands"
+  },
+  {
+    "domain": "az",
+    "description": "Azerbaijan (Republic of)"
+  },
+  {
+    "domain": "ba",
+    "description": "Bosnia and Herzegovina"
+  },
+  {
+    "domain": "bb",
+    "description": "Barbados"
+  },
+  {
+    "domain": "bd",
+    "description": "Bangladesh (People's Republic of)"
+  },
+  {
+    "domain": "be",
+    "description": "Belgium (Kingdom of)"
+  },
+  {
+    "domain": "bf",
+    "description": "Burkina Faso"
+  },
+  {
+    "domain": "bg",
+    "description": "Bulgaria (Republic of)"
+  },
+  {
+    "domain": "bh",
+    "description": "Bahrain (Kingdom of)"
+  },
+  {
+    "domain": "bi",
+    "description": "Burundi (Republic of)"
+  },
+  {
+    "domain": "biz",
+    "description": "Business"
+  },
+  {
+    "domain": "bj",
+    "description": "Benin (Republic of)"
+  },
+  {
+    "domain": "bl",
+    "description": "Saint Barthélemy (Collectivity of)"
+  },
+  {
+    "domain": "bm",
+    "description": "Bermuda"
+  },
+  {
+    "domain": "bn",
+    "description": "Brunei (Nation of Brunei"
+  },
+  {
+    "domain": "bo",
+    "description": "Bolivia (Plurinational State of)"
+  },
+  {
+    "domain": "bq",
+    "description": "Caribbean Netherlands [Bonaire"
+  },
+  {
+    "domain": "br",
+    "description": "Brazil (Federative Republic of)"
+  },
+  {
+    "domain": "bs",
+    "description": "Bahamas (Commonwealth of the)"
+  },
+  {
+    "domain": "bt",
+    "description": "Bhutan (Kingdom of)"
+  },
+  {
+    "domain": "bv",
+    "description": "Bouvet Island"
+  },
+  {
+    "domain": "bw",
+    "description": "Botswana (Republic of)"
+  },
+  {
+    "domain": "by",
+    "description": "Belarus (Republic of)"
+  },
+  {
+    "domain": "bz",
+    "description": "Belize"
+  },
+  {
+    "domain": "ca",
+    "description": "Canada"
+  },
+  {
+    "domain": "cat",
+    "description": "Catalan"
+  },
+  {
+    "domain": "cc",
+    "description": "Cocos (Keeling) Islands (Territory of the)"
+  },
+  {
+    "domain": "cd",
+    "description": "Congo (Democratic Republic of the)"
+  },
+  {
+    "domain": "cf",
+    "description": "Central African Republic"
+  },
+  {
+    "domain": "cg",
+    "description": "Congo (Republic of)"
+  },
+  {
+    "domain": "ch",
+    "description": "Switzerland (Swiss Confederation)"
+  },
+  {
+    "domain": "ci",
+    "description": "Ivory Coast (Republic of Côte d'Ivoire)"
+  },
+  {
+    "domain": "ck",
+    "description": "Cook Islands"
+  },
+  {
+    "domain": "cl",
+    "description": "Chile (Republic of)"
+  },
+  {
+    "domain": "cm",
+    "description": "Cameroon (Republic of)"
+  },
+  {
+    "domain": "cn",
+    "description": "China (People's Republic of)"
+  },
+  {
+    "domain": "co",
+    "description": "Colombia (Republic of)"
+  },
+  {
+    "domain": "com",
+    "description": "Commercial organizations"
+  },
+  {
+    "domain": "coop",
+    "description": "Cooperatives"
+  },
+  {
+    "domain": "cr",
+    "description": "Costa Rica (Republic of)"
+  },
+  {
+    "domain": "cu",
+    "description": "Cuba (Republic of)"
+  },
+  {
+    "domain": "cv",
+    "description": "Cape Verde (Republic of)"
+  },
+  {
+    "domain": "cw",
+    "description": "Curaçao (Country of)"
+  },
+  {
+    "domain": "cx",
+    "description": "Christmas Island (Territory of)"
+  },
+  {
+    "domain": "cy",
+    "description": "Cyprus (Republic of)"
+  },
+  {
+    "domain": "cz",
+    "description": "Czech Republic"
+  },
+  {
+    "domain": "de",
+    "description": "Germany (Federal Republic of)"
+  },
+  {
+    "domain": "dj",
+    "description": "Djibouti (Republic of)"
+  },
+  {
+    "domain": "dk",
+    "description": "Denmark (Kingdom of)"
+  },
+  {
+    "domain": "dm",
+    "description": "Dominica (Commonwealth of)"
+  },
+  {
+    "domain": "do",
+    "description": "Dominican Republic"
+  },
+  {
+    "domain": "dz",
+    "description": "Algeria (People's Democratic Republic of)"
+  },
+  {
+    "domain": "ec",
+    "description": "Ecuador (Republic of)"
+  },
+  {
+    "domain": "edu",
+    "description": "Educational establishments"
+  },
+  {
+    "domain": "ee",
+    "description": "Estonia (Republic of)"
+  },
+  {
+    "domain": "eg",
+    "description": "Egypt (Arab Republic of)"
+  },
+  {
+    "domain": "eh",
+    "description": "Western Sahara {reserved}"
+  },
+  {
+    "domain": "er",
+    "description": "Eritrea (State of)"
+  },
+  {
+    "domain": "es",
+    "description": "Spain (Kingdom of)"
+  },
+  {
+    "domain": "et",
+    "description": "Ethiopia (Federal Democratic Republic of)"
+  },
+  {
+    "domain": "eu",
+    "description": "European Union"
+  },
+  {
+    "domain": "fi",
+    "description": "Finland (Republic of)"
+  },
+  {
+    "domain": "fj",
+    "description": "Fiji (Republic of)"
+  },
+  {
+    "domain": "fk",
+    "description": "Falkland Islands (Malvinas)"
+  },
+  {
+    "domain": "fm",
+    "description": "Micronesia (Federated States of)"
+  },
+  {
+    "domain": "fo",
+    "description": "Faroe Islands"
+  },
+  {
+    "domain": "fr",
+    "description": "France (French Republic)"
+  },
+  {
+    "domain": "ga",
+    "description": "Gabon (Gabonese Republic)"
+  },
+  {
+    "domain": "gb",
+    "description": "United Kingdom (United Kingdom of Great Britain and Northern Ireland)"
+  },
+  {
+    "domain": "gd",
+    "description": "Grenada"
+  },
+  {
+    "domain": "ge",
+    "description": "Georgia"
+  },
+  {
+    "domain": "gf",
+    "description": "French Guiana"
+  },
+  {
+    "domain": "gg",
+    "description": "Guernsey (Bailiwick of)"
+  },
+  {
+    "domain": "gh",
+    "description": "Ghana (Republic of)"
+  },
+  {
+    "domain": "gi",
+    "description": "Gibraltar"
+  },
+  {
+    "domain": "gl",
+    "description": "Greenland"
+  },
+  {
+    "domain": "gm",
+    "description": "Gambia (Republic of The)"
+  },
+  {
+    "domain": "gn",
+    "description": "Guinea (Republic of)"
+  },
+  {
+    "domain": "gov",
+    "description": "US government"
+  },
+  {
+    "domain": "gp",
+    "description": "Guadeloupe"
+  },
+  {
+    "domain": "gq",
+    "description": "Equatorial Guinea (Republic of)"
+  },
+  {
+    "domain": "gr",
+    "description": "Greece (Hellenic Republic)"
+  },
+  {
+    "domain": "gs",
+    "description": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "domain": "gt",
+    "description": "Guatemala (Republic of)"
+  },
+  {
+    "domain": "gu",
+    "description": "Guam"
+  },
+  {
+    "domain": "gw",
+    "description": "Guinea-Bissau (Republic of)"
+  },
+  {
+    "domain": "gy",
+    "description": "Guyana (Co-operative Republic of)"
+  },
+  {
+    "domain": "hk",
+    "description": "Hong Kong (Hong Kong Special Administrative Region of the People's Republic of China)"
+  },
+  {
+    "domain": "hm",
+    "description": "Heard Island and McDonald Islands"
+  },
+  {
+    "domain": "hn",
+    "description": "Honduras (Republic of)"
+  },
+  {
+    "domain": "hr",
+    "description": "Croatia (Republic of)"
+  },
+  {
+    "domain": "ht",
+    "description": "Haiti (Republic of)"
+  },
+  {
+    "domain": "hu",
+    "description": "Hungary"
+  },
+  {
+    "domain": "id",
+    "description": "Indonesia (Republic of)"
+  },
+  {
+    "domain": "ie",
+    "description": "Ireland (Republic of)"
+  },
+  {
+    "domain": "il",
+    "description": "Israel (State of)"
+  },
+  {
+    "domain": "im",
+    "description": "Isle of Man"
+  },
+  {
+    "domain": "in",
+    "description": "India (Republic of)"
+  },
+  {
+    "domain": "info",
+    "description": "Informational sites"
+  },
+  {
+    "domain": "int",
+    "description": "International treaty-based organizations"
+  },
+  {
+    "domain": "io",
+    "description": "British Indian Ocean Territory"
+  },
+  {
+    "domain": "iq",
+    "description": "Iraq (Republic of)"
+  },
+  {
+    "domain": "ir",
+    "description": "Iran (Islamic Republic of)"
+  },
+  {
+    "domain": "is",
+    "description": "Iceland"
+  },
+  {
+    "domain": "it",
+    "description": "Italy (Italian Republic)"
+  },
+  {
+    "domain": "je",
+    "description": "Jersey (Bailiwick of)"
+  },
+  {
+    "domain": "jm",
+    "description": "Jamaica (Commonwealth of)"
+  },
+  {
+    "domain": "jo",
+    "description": "Jordan (Hashemite Kingdom of)"
+  },
+  {
+    "domain": "jobs",
+    "description": "Employment-related sites"
+  },
+  {
+    "domain": "jp",
+    "description": "Japan"
+  },
+  {
+    "domain": "ke",
+    "description": "Kenya (Republic of)"
+  },
+  {
+    "domain": "kg",
+    "description": "Kyrgyzstan (Kyrgyz Republic)"
+  },
+  {
+    "domain": "kh",
+    "description": "Cambodia (Kingdom of)"
+  },
+  {
+    "domain": "ki",
+    "description": "Kiribati (Republic of)"
+  },
+  {
+    "domain": "km",
+    "description": "Comoros (Union of the)"
+  },
+  {
+    "domain": "kn",
+    "description": "Saint Kitts and Nevis (Federation of)"
+  },
+  {
+    "domain": "kp",
+    "description": "Korea (Democratic People's Republic of)"
+  },
+  {
+    "domain": "kr",
+    "description": "Korea (Republic of"
+  },
+  {
+    "domain": "kw",
+    "description": "Kuwait (State of Kuwait)"
+  },
+  {
+    "domain": "ky",
+    "description": "Cayman Islands"
+  },
+  {
+    "domain": "kz",
+    "description": "Kazakhstan (Republic of)"
+  },
+  {
+    "domain": "la",
+    "description": "Laos (Lao People's Democratic Republic)"
+  },
+  {
+    "domain": "lb",
+    "description": "Lebanon (Lebanese Republic)"
+  },
+  {
+    "domain": "lc",
+    "description": "Saint Lucia"
+  },
+  {
+    "domain": "li",
+    "description": "Liechtenstein (Principality of)"
+  },
+  {
+    "domain": "lk",
+    "description": "Sri Lanka (Democratic Socialist Republic of)"
+  },
+  {
+    "domain": "local",
+    "description": "Pseudo-Domain for Multicast DNS"
+  },
+  {
+    "domain": "lr",
+    "description": "Liberia (Republic of)"
+  },
+  {
+    "domain": "ls",
+    "description": "Lesotho (Kingdom of)"
+  },
+  {
+    "domain": "lt",
+    "description": "Lithuania (Republic of)"
+  },
+  {
+    "domain": "lu",
+    "description": "Luxembourg (Grand Duchy of)"
+  },
+  {
+    "domain": "lv",
+    "description": "Latvia (Republic of)"
+  },
+  {
+    "domain": "ly",
+    "description": "Libya"
+  },
+  {
+    "domain": "ma",
+    "description": "Morocco"
+  },
+  {
+    "domain": "mc",
+    "description": "Monaco (Principality of)"
+  },
+  {
+    "domain": "md",
+    "description": "Moldova (Republic of)"
+  },
+  {
+    "domain": "me",
+    "description": "Montenegro"
+  },
+  {
+    "domain": "mg",
+    "description": "Madagascar (Republic of)"
+  },
+  {
+    "domain": "mh",
+    "description": "Marshall Islands (Republic of the)"
+  },
+  {
+    "domain": "mil",
+    "description": "US military"
+  },
+  {
+    "domain": "mk",
+    "description": "Macedonia (Republic of)"
+  },
+  {
+    "domain": "ml",
+    "description": "Mali (Republic of)"
+  },
+  {
+    "domain": "mm",
+    "description": "Myanmar (Republic of the Union of)"
+  },
+  {
+    "domain": "mn",
+    "description": "Mongolia"
+  },
+  {
+    "domain": "mo",
+    "description": "Macau (Macau Special Administrative Region of the People's Republic of China)"
+  },
+  {
+    "domain": "mobi",
+    "description": "Mobile"
+  },
+  {
+    "domain": "mp",
+    "description": "Northern Mariana Islands (Commonwealth of the)"
+  },
+  {
+    "domain": "mq",
+    "description": "Martinique"
+  },
+  {
+    "domain": "mr",
+    "description": "Mauritania (Islamic Republic of)"
+  },
+  {
+    "domain": "ms",
+    "description": "Montserrat"
+  },
+  {
+    "domain": "mt",
+    "description": "Malta (Republic of)"
+  },
+  {
+    "domain": "mu",
+    "description": "Mauritius (Republic of)"
+  },
+  {
+    "domain": "museum",
+    "description": "Museums"
+  },
+  {
+    "domain": "mv",
+    "description": "Maldives (Republic of)"
+  },
+  {
+    "domain": "mw",
+    "description": "Malawi (Republic of)"
+  },
+  {
+    "domain": "mx",
+    "description": "Mexico (United Mexican States)"
+  },
+  {
+    "domain": "my",
+    "description": "Malaysia"
+  },
+  {
+    "domain": "mz",
+    "description": "Mozambique (Republic of)"
+  },
+  {
+    "domain": "na",
+    "description": "Namibia (Republic of)"
+  },
+  {
+    "domain": "name",
+    "description": "Individuals"
+  },
+  {
+    "domain": "nc",
+    "description": "New Caledonia"
+  },
+  {
+    "domain": "ne",
+    "description": "Niger (Republic of)"
+  },
+  {
+    "domain": "net",
+    "description": "Network"
+  },
+  {
+    "domain": "nf",
+    "description": "Norfolk Island (Territory of)"
+  },
+  {
+    "domain": "ng",
+    "description": "Nigeria (Federal Republic of)"
+  },
+  {
+    "domain": "ni",
+    "description": "Nicaragua (Republic of)"
+  },
+  {
+    "domain": "nl",
+    "description": "Netherlands"
+  },
+  {
+    "domain": "no",
+    "description": "Norway (Kingdom of)"
+  },
+  {
+    "domain": "np",
+    "description": "Nepal (Federal Democratic Republic of)"
+  },
+  {
+    "domain": "nr",
+    "description": "Nauru (Republic of)"
+  },
+  {
+    "domain": "nu",
+    "description": "Niue"
+  },
+  {
+    "domain": "nz",
+    "description": "New Zealand"
+  },
+  {
+    "domain": "om",
+    "description": "Oman (Sultanate of)"
+  },
+  {
+    "domain": "onion",
+    "description": "Pseudo-Domain for TOR (The Onion Router)"
+  },
+  {
+    "domain": "org",
+    "description": "Non-profit organizations"
+  },
+  {
+    "domain": "pa",
+    "description": "Panama (Republic of)"
+  },
+  {
+    "domain": "pe",
+    "description": "Peru (Republic of)"
+  },
+  {
+    "domain": "pf",
+    "description": "French Polynesia and Clipperton Island"
+  },
+  {
+    "domain": "pg",
+    "description": "Papua New Guinea (Independent State of)"
+  },
+  {
+    "domain": "ph",
+    "description": "Philippines (Republic of the)"
+  },
+  {
+    "domain": "pk",
+    "description": "Pakistan (Islamic Republic of)"
+  },
+  {
+    "domain": "pl",
+    "description": "Poland (Republic of)"
+  },
+  {
+    "domain": "pm",
+    "description": "Saint Pierre and Miquelon"
+  },
+  {
+    "domain": "pn",
+    "description": "Pitcairn Islands (Pitcairn"
+  },
+  {
+    "domain": "pr",
+    "description": "Puerto Rico (Commonwealth of)"
+  },
+  {
+    "domain": "pro",
+    "description": "Profession"
+  },
+  {
+    "domain": "ps",
+    "description": "Palestine (State of)"
+  },
+  {
+    "domain": "pt",
+    "description": "Portugal (Portuguese Republic)"
+  },
+  {
+    "domain": "pw",
+    "description": "Palau (Republic of)"
+  },
+  {
+    "domain": "py",
+    "description": "Paraguay (Republic of)"
+  },
+  {
+    "domain": "qa",
+    "description": "Qatar (State of)"
+  },
+  {
+    "domain": "re",
+    "description": "Réunion"
+  },
+  {
+    "domain": "ro",
+    "description": "Romania"
+  },
+  {
+    "domain": "rs",
+    "description": "Serbia (Republic of)"
+  },
+  {
+    "domain": "ru",
+    "description": "Russia (Russian Federation)"
+  },
+  {
+    "domain": "rw",
+    "description": "Rwanda (Republic of)"
+  },
+  {
+    "domain": "sa",
+    "description": "Saudi Arabia (Kingdom of)"
+  },
+  {
+    "domain": "sb",
+    "description": "Solomon Islands"
+  },
+  {
+    "domain": "sc",
+    "description": "Seychelles (Republic of)"
+  },
+  {
+    "domain": "sd",
+    "description": "Sudan (Republic of)"
+  },
+  {
+    "domain": "se",
+    "description": "Sweden (Kingdom of)"
+  },
+  {
+    "domain": "sg",
+    "description": "Singapore (Republic of)"
+  },
+  {
+    "domain": "sh",
+    "description": "Saint Helena"
+  },
+  {
+    "domain": "si",
+    "description": "Slovenia (Republic of)"
+  },
+  {
+    "domain": "sk",
+    "description": "Slovakia (Slovak Republic)"
+  },
+  {
+    "domain": "sl",
+    "description": "Sierra Leone (Republic of)"
+  },
+  {
+    "domain": "sm",
+    "description": "San Marino (Republic of)"
+  },
+  {
+    "domain": "sn",
+    "description": "Senegal (Republic of)"
+  },
+  {
+    "domain": "so",
+    "description": "Somalia (Federal Republic of)"
+  },
+  {
+    "domain": "sr",
+    "description": "Suriname (Republic of)"
+  },
+  {
+    "domain": "ss",
+    "description": "South Sudan (Republic of)"
+  },
+  {
+    "domain": "st",
+    "description": "São Tomé and Príncipe (Democratic Republic of)"
+  },
+  {
+    "domain": "su",
+    "description": "Soviet Union (Union of Soviet Socialist Republics)"
+  },
+  {
+    "domain": "sv",
+    "description": "El Salvador (Republic of)"
+  },
+  {
+    "domain": "sx",
+    "description": "Sint Maarten"
+  },
+  {
+    "domain": "sy",
+    "description": "Syria (Syrian Arab Republic)"
+  },
+  {
+    "domain": "sz",
+    "description": "Swaziland (Kingdom of)"
+  },
+  {
+    "domain": "tc",
+    "description": "Turks and Caicos Islands"
+  },
+  {
+    "domain": "td",
+    "description": "Chad (Republic of)"
+  },
+  {
+    "domain": "tel",
+    "description": "Telephone"
+  },
+  {
+    "domain": "tf",
+    "description": "French Southern and Antarctic Lands (Territory of the)"
+  },
+  {
+    "domain": "tg",
+    "description": "Togo (Togolese Republic)"
+  },
+  {
+    "domain": "th",
+    "description": "Thailand (Kingdom of)"
+  },
+  {
+    "domain": "tj",
+    "description": "Tajikistan (Republic of)"
+  },
+  {
+    "domain": "tk",
+    "description": "Tokelau"
+  },
+  {
+    "domain": "tl",
+    "description": "Timor-Leste (Democratic Republic of)"
+  },
+  {
+    "domain": "tm",
+    "description": "Turkmenistan"
+  },
+  {
+    "domain": "tn",
+    "description": "Tunisia (Republic of)"
+  },
+  {
+    "domain": "to",
+    "description": "Tonga (Kingdom of)"
+  },
+  {
+    "domain": "tr",
+    "description": "Turkey (Republic of)"
+  },
+  {
+    "domain": "travel",
+    "description": "Travel"
+  },
+  {
+    "domain": "tt",
+    "description": "Trinidad and Tobago (Republic of)"
+  },
+  {
+    "domain": "tv",
+    "description": "Tuvalu"
+  },
+  {
+    "domain": "tw",
+    "description": "Taiwan (Republic of China)"
+  },
+  {
+    "domain": "tz",
+    "description": "Tanzania (United Republic of)"
+  },
+  {
+    "domain": "ua",
+    "description": "Ukraine"
+  },
+  {
+    "domain": "ug",
+    "description": "Uganda (Republic of)"
+  },
+  {
+    "domain": "uk",
+    "description": "United Kingdom (United Kingdom of Great Britain and Northern Ireland)"
+  },
+  {
+    "domain": "us",
+    "description": "United States of America and United States Minor Outlying Islands"
+  },
+  {
+    "domain": "uy",
+    "description": "Uruguay (Oriental Republic of)"
+  },
+  {
+    "domain": "uz",
+    "description": "Uzbekistan (Republic of)"
+  },
+  {
+    "domain": "va",
+    "description": "Vatican City (Vatican City State)"
+  },
+  {
+    "domain": "vc",
+    "description": "Saint Vincent and the Grenadines"
+  },
+  {
+    "domain": "ve",
+    "description": "Venezuela (Bolivarian Republic of)"
+  },
+  {
+    "domain": "vg",
+    "description": "British Virgin Islands (Virgin Islands)"
+  },
+  {
+    "domain": "vi",
+    "description": "United States Virgin Islands (United States Virgin Islands)"
+  },
+  {
+    "domain": "vn",
+    "description": "Vietnam (Socialist Republic of)"
+  },
+  {
+    "domain": "vu",
+    "description": "Vanuatu (Republic of)"
+  },
+  {
+    "domain": "wf",
+    "description": "Wallis and Futuna (Territory of the Wallis and Futuna Islands)"
+  },
+  {
+    "domain": "ws",
+    "description": "Samoa (Independent State of)"
+  },
+  {
+    "domain": "xxx",
+    "description": "Adult entertainment"
+  },
+  {
+    "domain": "ye",
+    "description": "Yemen (Republic of)"
+  },
+  {
+    "domain": "yt",
+    "description": "Mayotte (Department of)"
+  },
+  {
+    "domain": "za",
+    "description": "South Africa (Republic of)"
+  },
+  {
+    "domain": "zm",
+    "description": "Zambia (Republic of)"
+  },
+  {
+    "domain": "zw",
+    "description": "Zimbabwe (Republic of)"
+  }
+]
