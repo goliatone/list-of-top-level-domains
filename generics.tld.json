@@ -1,0 +1,2327 @@
+[
+    {
+        "domain": ".abogado",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".academy",
+        "type": "generic",
+        "sponsoring-organization": "Half Oaks, LLC"
+    },
+    {
+        "domain": ".accountants",
+        "type": "generic",
+        "sponsoring-organization": "Knob Town, LLC"
+    },
+    {
+        "domain": ".active",
+        "type": "generic",
+        "sponsoring-organization": "The Active Network, Inc"
+    },
+    {
+        "domain": ".actor",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".adult",
+        "type": "generic",
+        "sponsoring-organization": "ICM Registry AD LLC"
+    },
+    {
+        "domain": ".agency",
+        "type": "generic",
+        "sponsoring-organization": "Steel Falls, LLC"
+    },
+    {
+        "domain": ".airforce",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".allfinanz",
+        "type": "generic",
+        "sponsoring-organization": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
+    },
+    {
+        "domain": ".alsace",
+        "type": "generic",
+        "sponsoring-organization": "REGION D ALSACE"
+    },
+    {
+        "domain": ".android",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".aquarelle",
+        "type": "generic",
+        "sponsoring-organization": "Aquarelle.com"
+    },
+    {
+        "domain": ".archi",
+        "type": "generic",
+        "sponsoring-organization": "STARTING DOT LIMITED"
+    },
+    {
+        "domain": ".army",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".associates",
+        "type": "generic",
+        "sponsoring-organization": "Baxter Hill, LLC"
+    },
+    {
+        "domain": ".attorney",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".auction",
+        "type": "generic",
+        "sponsoring-organization": "United TLD HoldCo, Ltd."
+    },
+    {
+        "domain": ".audio",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".autos",
+        "type": "generic",
+        "sponsoring-organization": "DERAutos, LLC"
+    },
+    {
+        "domain": ".axa",
+        "type": "generic",
+        "sponsoring-organization": "AXA SA"
+    },
+    {
+        "domain": ".band",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".bar",
+        "type": "generic",
+        "sponsoring-organization": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+    },
+    {
+        "domain": ".bargains",
+        "type": "generic",
+        "sponsoring-organization": "Half Hallow, LLC"
+    },
+    {
+        "domain": ".bayern",
+        "type": "generic",
+        "sponsoring-organization": "Bayern Connect GmbH"
+    },
+    {
+        "domain": ".beer",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".berlin",
+        "type": "generic",
+        "sponsoring-organization": "dotBERLIN GmbH & Co. KG"
+    },
+    {
+        "domain": ".best",
+        "type": "generic",
+        "sponsoring-organization": "BestTLD Pty Ltd"
+    },
+    {
+        "domain": ".bid",
+        "type": "generic",
+        "sponsoring-organization": "dot Bid Limited"
+    },
+    {
+        "domain": ".bike",
+        "type": "generic",
+        "sponsoring-organization": "Grand Hollow, LLC"
+    },
+    {
+        "domain": ".bio",
+        "type": "generic",
+        "sponsoring-organization": "STARTING DOT LIMITED"
+    },
+    {
+        "domain": ".black",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".blackfriday",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".bloomberg",
+        "type": "generic",
+        "sponsoring-organization": "Bloomberg IP Holdings LLC"
+    },
+    {
+        "domain": ".blue",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".bmw",
+        "type": "generic",
+        "sponsoring-organization": "Bayerische Motoren Werke Aktiengesellschaft"
+    },
+    {
+        "domain": ".bnpparibas",
+        "type": "generic",
+        "sponsoring-organization": "BNP Paribas"
+    },
+    {
+        "domain": ".boo",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".boutique",
+        "type": "generic",
+        "sponsoring-organization": "Over Galley, LLC"
+    },
+    {
+        "domain": ".brussels",
+        "type": "generic",
+        "sponsoring-organization": "DNS.be vzw"
+    },
+    {
+        "domain": ".budapest",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".build",
+        "type": "generic",
+        "sponsoring-organization": "Plan Bee LLC"
+    },
+    {
+        "domain": ".builders",
+        "type": "generic",
+        "sponsoring-organization": "Atomic Madison, LLC"
+    },
+    {
+        "domain": ".business",
+        "type": "generic",
+        "sponsoring-organization": "Spring Cross, LLC"
+    },
+    {
+        "domain": ".buzz",
+        "type": "generic",
+        "sponsoring-organization": "DOTSTRATEGY CO."
+    },
+    {
+        "domain": ".bzh",
+        "type": "generic",
+        "sponsoring-organization": "Association www.bzh"
+    },
+    {
+        "domain": ".cab",
+        "type": "generic",
+        "sponsoring-organization": "Half Sunset, LLC"
+    },
+    {
+        "domain": ".cal",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".camera",
+        "type": "generic",
+        "sponsoring-organization": "Atomic Maple, LLC"
+    },
+    {
+        "domain": ".camp",
+        "type": "generic",
+        "sponsoring-organization": "Delta Dynamite, LLC"
+    },
+    {
+        "domain": ".cancerresearch",
+        "type": "generic",
+        "sponsoring-organization": "Australian Cancer Research Foundation"
+    },
+    {
+        "domain": ".capetown",
+        "type": "generic",
+        "sponsoring-organization": "ZA Central Registry NPC trading as ZA Central Registry"
+    },
+    {
+        "domain": ".capital",
+        "type": "generic",
+        "sponsoring-organization": "Delta Mill, LLC"
+    },
+    {
+        "domain": ".caravan",
+        "type": "generic",
+        "sponsoring-organization": "Caravan International, Inc."
+    },
+    {
+        "domain": ".cards",
+        "type": "generic",
+        "sponsoring-organization": "Foggy Hollow, LLC"
+    },
+    {
+        "domain": ".care",
+        "type": "generic",
+        "sponsoring-organization": "Goose Cross, LLC"
+    },
+    {
+        "domain": ".career",
+        "type": "generic",
+        "sponsoring-organization": "dotCareer LLC"
+    },
+    {
+        "domain": ".careers",
+        "type": "generic",
+        "sponsoring-organization": "Wild Corner, LLC"
+    },
+    {
+        "domain": ".cartier",
+        "type": "generic",
+        "sponsoring-organization": "Richemont DNS Inc."
+    },
+    {
+        "domain": ".casa",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".cash",
+        "type": "generic",
+        "sponsoring-organization": "Delta Lake, LLC"
+    },
+    {
+        "domain": ".catering",
+        "type": "generic",
+        "sponsoring-organization": "New Falls. LLC"
+    },
+    {
+        "domain": ".center",
+        "type": "generic",
+        "sponsoring-organization": "Tin Mill, LLC"
+    },
+    {
+        "domain": ".ceo",
+        "type": "generic",
+        "sponsoring-organization": "CEOTLD Pty Ltd"
+    },
+    {
+        "domain": ".cern",
+        "type": "generic",
+        "sponsoring-organization": "European Organization for Nuclear Research (\"CERN\")"
+    },
+    {
+        "domain": ".channel",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".cheap",
+        "type": "generic",
+        "sponsoring-organization": "Sand Cover, LLC"
+    },
+    {
+        "domain": ".christmas",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".chrome",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".church",
+        "type": "generic",
+        "sponsoring-organization": "Holly Fileds, LLC"
+    },
+    {
+        "domain": ".citic",
+        "type": "generic",
+        "sponsoring-organization": "CITIC Group Corporation"
+    },
+    {
+        "domain": ".city",
+        "type": "generic",
+        "sponsoring-organization": "Snow Sky, LLC"
+    },
+    {
+        "domain": ".claims",
+        "type": "generic",
+        "sponsoring-organization": "Black Corner, LLC"
+    },
+    {
+        "domain": ".cleaning",
+        "type": "generic",
+        "sponsoring-organization": "Fox Shadow, LLC"
+    },
+    {
+        "domain": ".click",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".clinic",
+        "type": "generic",
+        "sponsoring-organization": "Goose Park, LLC"
+    },
+    {
+        "domain": ".clothing",
+        "type": "generic",
+        "sponsoring-organization": "Steel Lake, LLC"
+    },
+    {
+        "domain": ".club",
+        "type": "generic",
+        "sponsoring-organization": ".CLUB DOMAINS, LLC"
+    },
+    {
+        "domain": ".coach",
+        "type": "generic",
+        "sponsoring-organization": "Koko Island, LLC"
+    },
+    {
+        "domain": ".codes",
+        "type": "generic",
+        "sponsoring-organization": "Puff Willow, LLC"
+    },
+    {
+        "domain": ".coffee",
+        "type": "generic",
+        "sponsoring-organization": "Trixy Cover, LLC"
+    },
+    {
+        "domain": ".college",
+        "type": "generic",
+        "sponsoring-organization": "XYZ.COM LLC"
+    },
+    {
+        "domain": ".cologne",
+        "type": "generic",
+        "sponsoring-organization": "NetCologne Gesellschaft für Telekommunikation mbH"
+    },
+    {
+        "domain": ".com",
+        "type": "generic",
+        "sponsoring-organization": "VeriSign Global Registry Services"
+    },
+    {
+        "domain": ".community",
+        "type": "generic",
+        "sponsoring-organization": "Fox Orchard, LLC"
+    },
+    {
+        "domain": ".company",
+        "type": "generic",
+        "sponsoring-organization": "Silver Avenue, LLC"
+    },
+    {
+        "domain": ".computer",
+        "type": "generic",
+        "sponsoring-organization": "Pine Mill, LLC"
+    },
+    {
+        "domain": ".condos",
+        "type": "generic",
+        "sponsoring-organization": "Pine House, LLC"
+    },
+    {
+        "domain": ".construction",
+        "type": "generic",
+        "sponsoring-organization": "Fox Dynamite, LLC"
+    },
+    {
+        "domain": ".consulting",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, LTD."
+    },
+    {
+        "domain": ".contractors",
+        "type": "generic",
+        "sponsoring-organization": "Magic Woods, LLC"
+    },
+    {
+        "domain": ".cooking",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".cool",
+        "type": "generic",
+        "sponsoring-organization": "Koko Lake, LLC"
+    },
+    {
+        "domain": ".country",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".credit",
+        "type": "generic",
+        "sponsoring-organization": "Snow Shadow, LLC"
+    },
+    {
+        "domain": ".creditcard",
+        "type": "generic",
+        "sponsoring-organization": "Binky Frostbite, LLC"
+    },
+    {
+        "domain": ".cricket",
+        "type": "generic",
+        "sponsoring-organization": "dot Cricket Limited"
+    },
+    {
+        "domain": ".crs",
+        "type": "generic",
+        "sponsoring-organization": "Federated Co-operatives Limited"
+    },
+    {
+        "domain": ".cruises",
+        "type": "generic",
+        "sponsoring-organization": "Spring Way, LLC"
+    },
+    {
+        "domain": ".cuisinella",
+        "type": "generic",
+        "sponsoring-organization": "SALM S.A.S."
+    },
+    {
+        "domain": ".cymru",
+        "type": "generic",
+        "sponsoring-organization": "Nominet UK"
+    },
+    {
+        "domain": ".dad",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".dance",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".dating",
+        "type": "generic",
+        "sponsoring-organization": "Pine Fest, LLC"
+    },
+    {
+        "domain": ".day",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".deals",
+        "type": "generic",
+        "sponsoring-organization": "Sand Sunset, LLC"
+    },
+    {
+        "domain": ".degree",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".delivery",
+        "type": "generic",
+        "sponsoring-organization": "Steel Station, LLC"
+    },
+    {
+        "domain": ".democrat",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".dental",
+        "type": "generic",
+        "sponsoring-organization": "Tin Birch, LLC"
+    },
+    {
+        "domain": ".dentist",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".desi",
+        "type": "generic",
+        "sponsoring-organization": "Desi Networks LLC"
+    },
+    {
+        "domain": ".diamonds",
+        "type": "generic",
+        "sponsoring-organization": "John Edge, LLC"
+    },
+    {
+        "domain": ".diet",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".digital",
+        "type": "generic",
+        "sponsoring-organization": "Dash Park, LLC"
+    },
+    {
+        "domain": ".direct",
+        "type": "generic",
+        "sponsoring-organization": "Half Trail, LLC"
+    },
+    {
+        "domain": ".directory",
+        "type": "generic",
+        "sponsoring-organization": "Extra Madison, LLC"
+    },
+    {
+        "domain": ".discount",
+        "type": "generic",
+        "sponsoring-organization": "Holly Hill, LLC"
+    },
+    {
+        "domain": ".dnp",
+        "type": "generic",
+        "sponsoring-organization": "Dai Nippon Printing Co., Ltd."
+    },
+    {
+        "domain": ".domains",
+        "type": "generic",
+        "sponsoring-organization": "Sugar Cross, LLC"
+    },
+    {
+        "domain": ".durban",
+        "type": "generic",
+        "sponsoring-organization": "ZA Central Registry NPC trading as ZA Central Registry"
+    },
+    {
+        "domain": ".dvag",
+        "type": "generic",
+        "sponsoring-organization": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+    },
+    {
+        "domain": ".eat",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".education",
+        "type": "generic",
+        "sponsoring-organization": "Brice Way, LLC"
+    },
+    {
+        "domain": ".email",
+        "type": "generic",
+        "sponsoring-organization": "Spring Madison, LLC"
+    },
+    {
+        "domain": ".emerck",
+        "type": "generic",
+        "sponsoring-organization": "Merck KGaA"
+    },
+    {
+        "domain": ".energy",
+        "type": "generic",
+        "sponsoring-organization": "Binky Birch, LLC"
+    },
+    {
+        "domain": ".engineer",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".engineering",
+        "type": "generic",
+        "sponsoring-organization": "Romeo Canyon"
+    },
+    {
+        "domain": ".enterprises",
+        "type": "generic",
+        "sponsoring-organization": "Snow Oaks, LLC"
+    },
+    {
+        "domain": ".equipment",
+        "type": "generic",
+        "sponsoring-organization": "Corn Station, LLC"
+    },
+    {
+        "domain": ".esq",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".estate",
+        "type": "generic",
+        "sponsoring-organization": "Trixy Park, LLC"
+    },
+    {
+        "domain": ".eurovision",
+        "type": "generic",
+        "sponsoring-organization": "European Broadcasting Union (EBU)"
+    },
+    {
+        "domain": ".eus",
+        "type": "generic",
+        "sponsoring-organization": "Puntueus Fundazioa"
+    },
+    {
+        "domain": ".events",
+        "type": "generic",
+        "sponsoring-organization": "Pioneer Maple, LLC"
+    },
+    {
+        "domain": ".everbank",
+        "type": "generic",
+        "sponsoring-organization": "EverBank"
+    },
+    {
+        "domain": ".exchange",
+        "type": "generic",
+        "sponsoring-organization": "Spring Falls, LLC"
+    },
+    {
+        "domain": ".expert",
+        "type": "generic",
+        "sponsoring-organization": "Magic Pass, LLC"
+    },
+    {
+        "domain": ".exposed",
+        "type": "generic",
+        "sponsoring-organization": "Victor Beach, LLC"
+    },
+    {
+        "domain": ".fail",
+        "type": "generic",
+        "sponsoring-organization": "Atomic Pipe, LLC"
+    },
+    {
+        "domain": ".farm",
+        "type": "generic",
+        "sponsoring-organization": "Just Maple, LLC"
+    },
+    {
+        "domain": ".fashion",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".feedback",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Spectrum, Inc."
+    },
+    {
+        "domain": ".finance",
+        "type": "generic",
+        "sponsoring-organization": "Cotton Cypress, LLC"
+    },
+    {
+        "domain": ".financial",
+        "type": "generic",
+        "sponsoring-organization": "Just Cover, LLC"
+    },
+    {
+        "domain": ".firmdale",
+        "type": "generic",
+        "sponsoring-organization": "Firmdale Holdings Limited"
+    },
+    {
+        "domain": ".fish",
+        "type": "generic",
+        "sponsoring-organization": "Fox Woods, LLC"
+    },
+    {
+        "domain": ".fishing",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".fitness",
+        "type": "generic",
+        "sponsoring-organization": "Brice Orchard, LLC"
+    },
+    {
+        "domain": ".flights",
+        "type": "generic",
+        "sponsoring-organization": "Fox Station, LLC"
+    },
+    {
+        "domain": ".florist",
+        "type": "generic",
+        "sponsoring-organization": "Half Cypress, LLC"
+    },
+    {
+        "domain": ".flsmidth",
+        "type": "generic",
+        "sponsoring-organization": "FLSmidth A/S"
+    },
+    {
+        "domain": ".fly",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".foo",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".forsale",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, LLC"
+    },
+    {
+        "domain": ".foundation",
+        "type": "generic",
+        "sponsoring-organization": "John Dale, LLC"
+    },
+    {
+        "domain": ".frl",
+        "type": "generic",
+        "sponsoring-organization": "FRLregistry B.V."
+    },
+    {
+        "domain": ".frogans",
+        "type": "generic",
+        "sponsoring-organization": "OP3FT"
+    },
+    {
+        "domain": ".fund",
+        "type": "generic",
+        "sponsoring-organization": "John Castle, LLC"
+    },
+    {
+        "domain": ".furniture",
+        "type": "generic",
+        "sponsoring-organization": "Lone Fields, LLC"
+    },
+    {
+        "domain": ".futbol",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd."
+    },
+    {
+        "domain": ".gal",
+        "type": "generic",
+        "sponsoring-organization": "Asociación puntoGAL"
+    },
+    {
+        "domain": ".gallery",
+        "type": "generic",
+        "sponsoring-organization": "Sugar House, LLC"
+    },
+    {
+        "domain": ".gbiz",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".gent",
+        "type": "generic",
+        "sponsoring-organization": "COMBELL GROUP NV/SA"
+    },
+    {
+        "domain": ".gift",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".gifts",
+        "type": "generic",
+        "sponsoring-organization": "Goose Sky, LLC"
+    },
+    {
+        "domain": ".gives",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".glass",
+        "type": "generic",
+        "sponsoring-organization": "Black Cover, LLC"
+    },
+    {
+        "domain": ".gle",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".global",
+        "type": "generic",
+        "sponsoring-organization": "Dot GLOBAL AS"
+    },
+    {
+        "domain": ".globo",
+        "type": "generic",
+        "sponsoring-organization": "Globo Comunicação e Participações S.A"
+    },
+    {
+        "domain": ".gmail",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".gmo",
+        "type": "generic",
+        "sponsoring-organization": "GMO Internet, Inc."
+    },
+    {
+        "domain": ".gmx",
+        "type": "generic",
+        "sponsoring-organization": "1&1 Mail & Media GmbH"
+    },
+    {
+        "domain": ".google",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".gop",
+        "type": "generic",
+        "sponsoring-organization": "Republican State Leadership Committee, Inc."
+    },
+    {
+        "domain": ".graphics",
+        "type": "generic",
+        "sponsoring-organization": "Over Madison, LLC"
+    },
+    {
+        "domain": ".gratis",
+        "type": "generic",
+        "sponsoring-organization": "Pioneer Tigers, LLC"
+    },
+    {
+        "domain": ".green",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".gripe",
+        "type": "generic",
+        "sponsoring-organization": "Corn Sunset, LLC"
+    },
+    {
+        "domain": ".guide",
+        "type": "generic",
+        "sponsoring-organization": "Snow Moon, LLC"
+    },
+    {
+        "domain": ".guitars",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".guru",
+        "type": "generic",
+        "sponsoring-organization": "Pioneer Cypress, LLC"
+    },
+    {
+        "domain": ".hamburg",
+        "type": "generic",
+        "sponsoring-organization": "Hamburg Top-Level-Domain GmbH"
+    },
+    {
+        "domain": ".haus",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, LTD."
+    },
+    {
+        "domain": ".healthcare",
+        "type": "generic",
+        "sponsoring-organization": "Silver Glen, LLC"
+    },
+    {
+        "domain": ".help",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".here",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".hiphop",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".hiv",
+        "type": "generic",
+        "sponsoring-organization": "dotHIV gemeinnuetziger e.V."
+    },
+    {
+        "domain": ".holdings",
+        "type": "generic",
+        "sponsoring-organization": "John Madison, LLC"
+    },
+    {
+        "domain": ".holiday",
+        "type": "generic",
+        "sponsoring-organization": "Goose Woods, LLC"
+    },
+    {
+        "domain": ".homes",
+        "type": "generic",
+        "sponsoring-organization": "DERHomes, LLC"
+    },
+    {
+        "domain": ".horse",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".host",
+        "type": "generic",
+        "sponsoring-organization": "DotHost Inc."
+    },
+    {
+        "domain": ".hosting",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".house",
+        "type": "generic",
+        "sponsoring-organization": "Sugar Park, LLC"
+    },
+    {
+        "domain": ".how",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".ibm",
+        "type": "generic",
+        "sponsoring-organization": "International Business Machines Corporation"
+    },
+    {
+        "domain": ".immo",
+        "type": "generic",
+        "sponsoring-organization": "Auburn Bloom, LLC"
+    },
+    {
+        "domain": ".immobilien",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".industries",
+        "type": "generic",
+        "sponsoring-organization": "Outer House, LLC"
+    },
+    {
+        "domain": ".info",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".ing",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".ink",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Design, LLC"
+    },
+    {
+        "domain": ".institute",
+        "type": "generic",
+        "sponsoring-organization": "Outer Maple, LLC"
+    },
+    {
+        "domain": ".insure",
+        "type": "generic",
+        "sponsoring-organization": "Pioneer Willow, LLC"
+    },
+    {
+        "domain": ".international",
+        "type": "generic",
+        "sponsoring-organization": "Wild Way, LLC"
+    },
+    {
+        "domain": ".investments",
+        "type": "generic",
+        "sponsoring-organization": "Holly Glen, LLC"
+    },
+    {
+        "domain": ".irish",
+        "type": "generic",
+        "sponsoring-organization": "Dot-Irish LLC"
+    },
+    {
+        "domain": ".jetzt",
+        "type": "generic",
+        "sponsoring-organization": "New TLD Company AB"
+    },
+    {
+        "domain": ".joburg",
+        "type": "generic",
+        "sponsoring-organization": "ZA Central Registry NPC trading as ZA Central Registry"
+    },
+    {
+        "domain": ".juegos",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".kaufen",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".kim",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".kitchen",
+        "type": "generic",
+        "sponsoring-organization": "Just Goodbye, LLC"
+    },
+    {
+        "domain": ".kiwi",
+        "type": "generic",
+        "sponsoring-organization": "DOT KIWI LIMITED"
+    },
+    {
+        "domain": ".koeln",
+        "type": "generic",
+        "sponsoring-organization": "NetCologne Gesellschaft für Telekommunikation mbH"
+    },
+    {
+        "domain": ".krd",
+        "type": "generic",
+        "sponsoring-organization": "KRG Department of Information Technology"
+    },
+    {
+        "domain": ".kred",
+        "type": "generic",
+        "sponsoring-organization": "KredTLD Pty Ltd"
+    },
+    {
+        "domain": ".lacaixa",
+        "type": "generic",
+        "sponsoring-organization": "CAIXA D'ESTALVIS I PENSIONS DE BARCELONA"
+    },
+    {
+        "domain": ".land",
+        "type": "generic",
+        "sponsoring-organization": "Pine Moon, LLC"
+    },
+    {
+        "domain": ".latrobe",
+        "type": "generic",
+        "sponsoring-organization": "La Trobe University"
+    },
+    {
+        "domain": ".lawyer",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".lds",
+        "type": "generic",
+        "sponsoring-organization": "IRI Domain Management, LLC"
+    },
+    {
+        "domain": ".lease",
+        "type": "generic",
+        "sponsoring-organization": "Victor Trail, LLC"
+    },
+    {
+        "domain": ".legal",
+        "type": "generic",
+        "sponsoring-organization": "Blue Falls, LLC"
+    },
+    {
+        "domain": ".lgbt",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".life",
+        "type": "generic",
+        "sponsoring-organization": "Trixy Oaks, LLC"
+    },
+    {
+        "domain": ".lighting",
+        "type": "generic",
+        "sponsoring-organization": "John McCook, LLC"
+    },
+    {
+        "domain": ".limited",
+        "type": "generic",
+        "sponsoring-organization": "Big Fest, LLC"
+    },
+    {
+        "domain": ".limo",
+        "type": "generic",
+        "sponsoring-organization": "Hidden Frostbite, LLC"
+    },
+    {
+        "domain": ".link",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".loans",
+        "type": "generic",
+        "sponsoring-organization": "June Woods, LLC"
+    },
+    {
+        "domain": ".london",
+        "type": "generic",
+        "sponsoring-organization": "Dot London Domains Limited"
+    },
+    {
+        "domain": ".lotto",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".ltda",
+        "type": "generic",
+        "sponsoring-organization": "InterNetX Corp."
+    },
+    {
+        "domain": ".luxe",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".luxury",
+        "type": "generic",
+        "sponsoring-organization": "Luxury Partners LLC"
+    },
+    {
+        "domain": ".madrid",
+        "type": "generic",
+        "sponsoring-organization": "Comunidad de Madrid"
+    },
+    {
+        "domain": ".maison",
+        "type": "generic",
+        "sponsoring-organization": "Victor Frostbite, LLC"
+    },
+    {
+        "domain": ".management",
+        "type": "generic",
+        "sponsoring-organization": "John Goodbye, LLC"
+    },
+    {
+        "domain": ".mango",
+        "type": "generic",
+        "sponsoring-organization": "PUNTO FA S.L."
+    },
+    {
+        "domain": ".market",
+        "type": "generic",
+        "sponsoring-organization": "Unitied TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".marketing",
+        "type": "generic",
+        "sponsoring-organization": "Fern Pass, LLC"
+    },
+    {
+        "domain": ".media",
+        "type": "generic",
+        "sponsoring-organization": "Grand Glen, LLC"
+    },
+    {
+        "domain": ".meet",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".melbourne",
+        "type": "generic",
+        "sponsoring-organization": "The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation"
+    },
+    {
+        "domain": ".meme",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".memorial",
+        "type": "generic",
+        "sponsoring-organization": "Dog Beach, LLC"
+    },
+    {
+        "domain": ".menu",
+        "type": "generic",
+        "sponsoring-organization": "Wedding TLD2, LLC"
+    },
+    {
+        "domain": ".miami",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".mini",
+        "type": "generic",
+        "sponsoring-organization": "Bayerische Motoren Werke Aktiengesellschaft"
+    },
+    {
+        "domain": ".moda",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".moe",
+        "type": "generic",
+        "sponsoring-organization": "Interlink Co., Ltd."
+    },
+    {
+        "domain": ".monash",
+        "type": "generic",
+        "sponsoring-organization": "Monash University"
+    },
+    {
+        "domain": ".money",
+        "type": "generic",
+        "sponsoring-organization": "Outer McCook, LLC"
+    },
+    {
+        "domain": ".mormon",
+        "type": "generic",
+        "sponsoring-organization": "IRI Domain Management, LLC (\"Applicant\")"
+    },
+    {
+        "domain": ".mortgage",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".moscow",
+        "type": "generic",
+        "sponsoring-organization": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+    },
+    {
+        "domain": ".motorcycles",
+        "type": "generic",
+        "sponsoring-organization": "DERMotorcycles, LLC"
+    },
+    {
+        "domain": ".mov",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".nagoya",
+        "type": "generic",
+        "sponsoring-organization": "GMO Registry, Inc."
+    },
+    {
+        "domain": ".navy",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".net",
+        "type": "generic",
+        "sponsoring-organization": "VeriSign Global Registry Services"
+    },
+    {
+        "domain": ".network",
+        "type": "generic",
+        "sponsoring-organization": "Trixy Manor, LLC"
+    },
+    {
+        "domain": ".neustar",
+        "type": "generic",
+        "sponsoring-organization": "NeuStar, Inc."
+    },
+    {
+        "domain": ".new",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".nexus",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".ngo",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry"
+    },
+    {
+        "domain": ".nhk",
+        "type": "generic",
+        "sponsoring-organization": "Japan Broadcasting Corporation (NHK)"
+    },
+    {
+        "domain": ".ninja",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".nra",
+        "type": "generic",
+        "sponsoring-organization": "NRA Holdings Company, INC."
+    },
+    {
+        "domain": ".nrw",
+        "type": "generic",
+        "sponsoring-organization": "Minds + Machines GmbH"
+    },
+    {
+        "domain": ".nyc",
+        "type": "generic",
+        "sponsoring-organization": "The City of New York by and through the New York City Department of Information Technology & Telecommunications"
+    },
+    {
+        "domain": ".okinawa",
+        "type": "generic",
+        "sponsoring-organization": "BusinessRalliart inc."
+    },
+    {
+        "domain": ".ong",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry"
+    },
+    {
+        "domain": ".onl",
+        "type": "generic",
+        "sponsoring-organization": "I-REGISTRY Ltd., Niederlassung Deutschland"
+    },
+    {
+        "domain": ".ooo",
+        "type": "generic",
+        "sponsoring-organization": "INFIBEAM INCORPORATION LIMITED"
+    },
+    {
+        "domain": ".org",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry (PIR)"
+    },
+    {
+        "domain": ".organic",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".otsuka",
+        "type": "generic",
+        "sponsoring-organization": "Otsuka Holdings Co., Ltd."
+    },
+    {
+        "domain": ".ovh",
+        "type": "generic",
+        "sponsoring-organization": "OVH SAS"
+    },
+    {
+        "domain": ".paris",
+        "type": "generic",
+        "sponsoring-organization": "City of Paris"
+    },
+    {
+        "domain": ".partners",
+        "type": "generic",
+        "sponsoring-organization": "Magic Glen, LLC"
+    },
+    {
+        "domain": ".parts",
+        "type": "generic",
+        "sponsoring-organization": "Sea Goodbye, LLC"
+    },
+    {
+        "domain": ".party",
+        "type": "generic",
+        "sponsoring-organization": "Blue Sky Registry Limited"
+    },
+    {
+        "domain": ".pharmacy",
+        "type": "generic",
+        "sponsoring-organization": "National Association of Boards of Pharmacy"
+    },
+    {
+        "domain": ".photo",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".photography",
+        "type": "generic",
+        "sponsoring-organization": "Sugar Glen, LLC"
+    },
+    {
+        "domain": ".photos",
+        "type": "generic",
+        "sponsoring-organization": "Sea Corner, LLC"
+    },
+    {
+        "domain": ".physio",
+        "type": "generic",
+        "sponsoring-organization": "PhysBiz Pty Ltd"
+    },
+    {
+        "domain": ".pics",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".pictures",
+        "type": "generic",
+        "sponsoring-organization": "Foggy Sky, LLC"
+    },
+    {
+        "domain": ".pink",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".pizza",
+        "type": "generic",
+        "sponsoring-organization": "Foggy Moon, LLC"
+    },
+    {
+        "domain": ".place",
+        "type": "generic",
+        "sponsoring-organization": "Snow Galley, LLC"
+    },
+    {
+        "domain": ".plumbing",
+        "type": "generic",
+        "sponsoring-organization": "Spring Tigers, LLC"
+    },
+    {
+        "domain": ".pohl",
+        "type": "generic",
+        "sponsoring-organization": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+    },
+    {
+        "domain": ".poker",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Domains No. 5 Limited"
+    },
+    {
+        "domain": ".porn",
+        "type": "generic",
+        "sponsoring-organization": "ICM Registry PN LLC"
+    },
+    {
+        "domain": ".praxi",
+        "type": "generic",
+        "sponsoring-organization": "Praxi S.p.A."
+    },
+    {
+        "domain": ".press",
+        "type": "generic",
+        "sponsoring-organization": "DotPress Inc."
+    },
+    {
+        "domain": ".prod",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".productions",
+        "type": "generic",
+        "sponsoring-organization": "Magic Birch, LLC"
+    },
+    {
+        "domain": ".prof",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".properties",
+        "type": "generic",
+        "sponsoring-organization": "Big Pass, LLC"
+    },
+    {
+        "domain": ".property",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".pub",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".qpon",
+        "type": "generic",
+        "sponsoring-organization": "dotCOOL, Inc."
+    },
+    {
+        "domain": ".quebec",
+        "type": "generic",
+        "sponsoring-organization": "PointQuébec Inc"
+    },
+    {
+        "domain": ".realtor",
+        "type": "generic",
+        "sponsoring-organization": "Real Estate Domains LLC"
+    },
+    {
+        "domain": ".recipes",
+        "type": "generic",
+        "sponsoring-organization": "Grand Island, LLC"
+    },
+    {
+        "domain": ".red",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".rehab",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".reise",
+        "type": "generic",
+        "sponsoring-organization": "dotreise GmbH"
+    },
+    {
+        "domain": ".reisen",
+        "type": "generic",
+        "sponsoring-organization": "New Cypress, LLC"
+    },
+    {
+        "domain": ".reit",
+        "type": "generic",
+        "sponsoring-organization": "National Association of Real Estate Investment Trusts, Inc."
+    },
+    {
+        "domain": ".ren",
+        "type": "generic",
+        "sponsoring-organization": "Beijing Qianxiang Wangjing Technology Development Co., Ltd."
+    },
+    {
+        "domain": ".rentals",
+        "type": "generic",
+        "sponsoring-organization": "Big Hollow,LLC"
+    },
+    {
+        "domain": ".repair",
+        "type": "generic",
+        "sponsoring-organization": "Lone Sunset, LLC"
+    },
+    {
+        "domain": ".report",
+        "type": "generic",
+        "sponsoring-organization": "Binky Glen, LLC"
+    },
+    {
+        "domain": ".republican",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".rest",
+        "type": "generic",
+        "sponsoring-organization": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+    },
+    {
+        "domain": ".restaurant",
+        "type": "generic",
+        "sponsoring-organization": "Snow Avenue, LLC"
+    },
+    {
+        "domain": ".reviews",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd."
+    },
+    {
+        "domain": ".rich",
+        "type": "generic",
+        "sponsoring-organization": "I-REGISTRY Ltd., Niederlassung Deutschland"
+    },
+    {
+        "domain": ".rio",
+        "type": "generic",
+        "sponsoring-organization": "Empresa Municipal de Informática SA - IPLANRIO"
+    },
+    {
+        "domain": ".rip",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".rocks",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, LTD."
+    },
+    {
+        "domain": ".rodeo",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".rsvp",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".ruhr",
+        "type": "generic",
+        "sponsoring-organization": "regiodot GmbH & Co. KG"
+    },
+    {
+        "domain": ".ryukyu",
+        "type": "generic",
+        "sponsoring-organization": "BusinessRalliart inc."
+    },
+    {
+        "domain": ".saarland",
+        "type": "generic",
+        "sponsoring-organization": "dotSaarland GmbH"
+    },
+    {
+        "domain": ".samsung",
+        "type": "generic",
+        "sponsoring-organization": "SAMSUNG SDS CO., LTD"
+    },
+    {
+        "domain": ".sarl",
+        "type": "generic",
+        "sponsoring-organization": "Delta Orchard, LLC"
+    },
+    {
+        "domain": ".sca",
+        "type": "generic",
+        "sponsoring-organization": "SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)"
+    },
+    {
+        "domain": ".scb",
+        "type": "generic",
+        "sponsoring-organization": "The Siam Commercial Bank Public Company Limited (\"SCB\")"
+    },
+    {
+        "domain": ".schmidt",
+        "type": "generic",
+        "sponsoring-organization": "SALM S.A.S."
+    },
+    {
+        "domain": ".schule",
+        "type": "generic",
+        "sponsoring-organization": "Outer Moon, LLC"
+    },
+    {
+        "domain": ".science",
+        "type": "generic",
+        "sponsoring-organization": "dot Science Limited"
+    },
+    {
+        "domain": ".scot",
+        "type": "generic",
+        "sponsoring-organization": "Dot Scot Registry Limited"
+    },
+    {
+        "domain": ".services",
+        "type": "generic",
+        "sponsoring-organization": "Fox Castle, LLC"
+    },
+    {
+        "domain": ".sexy",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".shiksha",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".shoes",
+        "type": "generic",
+        "sponsoring-organization": "Binky Galley, LLC"
+    },
+    {
+        "domain": ".singles",
+        "type": "generic",
+        "sponsoring-organization": "Fern Madison, LLC"
+    },
+    {
+        "domain": ".social",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco Ltd."
+    },
+    {
+        "domain": ".software",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".sohu",
+        "type": "generic",
+        "sponsoring-organization": "Sohu.com Limited"
+    },
+    {
+        "domain": ".solar",
+        "type": "generic",
+        "sponsoring-organization": "Ruby Town, LLC"
+    },
+    {
+        "domain": ".solutions",
+        "type": "generic",
+        "sponsoring-organization": "Silver Cover, LLC"
+    },
+    {
+        "domain": ".soy",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".space",
+        "type": "generic",
+        "sponsoring-organization": "DotSpace Inc."
+    },
+    {
+        "domain": ".spiegel",
+        "type": "generic",
+        "sponsoring-organization": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG"
+    },
+    {
+        "domain": ".supplies",
+        "type": "generic",
+        "sponsoring-organization": "Atomic Fields, LLC"
+    },
+    {
+        "domain": ".supply",
+        "type": "generic",
+        "sponsoring-organization": "Half Falls, LLC"
+    },
+    {
+        "domain": ".support",
+        "type": "generic",
+        "sponsoring-organization": "Grand Orchard, LLC"
+    },
+    {
+        "domain": ".surf",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".surgery",
+        "type": "generic",
+        "sponsoring-organization": "Tin Avenue, LLC"
+    },
+    {
+        "domain": ".suzuki",
+        "type": "generic",
+        "sponsoring-organization": "SUZUKI MOTOR CORPORATION"
+    },
+    {
+        "domain": ".sydney",
+        "type": "generic",
+        "sponsoring-organization": "State of New South Wales, Department of Premier and Cabinet"
+    },
+    {
+        "domain": ".systems",
+        "type": "generic",
+        "sponsoring-organization": "Dash Cypress, LLC"
+    },
+    {
+        "domain": ".taipei",
+        "type": "generic",
+        "sponsoring-organization": "Taipei City Government"
+    },
+    {
+        "domain": ".tatar",
+        "type": "generic",
+        "sponsoring-organization": "Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\""
+    },
+    {
+        "domain": ".tattoo",
+        "type": "generic",
+        "sponsoring-organization": "Uniregistry, Corp."
+    },
+    {
+        "domain": ".tax",
+        "type": "generic",
+        "sponsoring-organization": "Storm Orchard, LLC"
+    },
+    {
+        "domain": ".technology",
+        "type": "generic",
+        "sponsoring-organization": "Auburn Falls, LLC"
+    },
+    {
+        "domain": ".tienda",
+        "type": "generic",
+        "sponsoring-organization": "Victor Manor, LLC"
+    },
+    {
+        "domain": ".tips",
+        "type": "generic",
+        "sponsoring-organization": "Corn Willow, LLC"
+    },
+    {
+        "domain": ".tirol",
+        "type": "generic",
+        "sponsoring-organization": "punkt Tirol GmbH"
+    },
+    {
+        "domain": ".today",
+        "type": "generic",
+        "sponsoring-organization": "Pearl Woods, LLC"
+    },
+    {
+        "domain": ".tokyo",
+        "type": "generic",
+        "sponsoring-organization": "GMO Registry, Inc."
+    },
+    {
+        "domain": ".tools",
+        "type": "generic",
+        "sponsoring-organization": "Pioneer North, LLC"
+    },
+    {
+        "domain": ".top",
+        "type": "generic",
+        "sponsoring-organization": "Jiangsu Bangning Science & Technology Co.,Ltd."
+    },
+    {
+        "domain": ".town",
+        "type": "generic",
+        "sponsoring-organization": "Koko Moon, LLC"
+    },
+    {
+        "domain": ".toys",
+        "type": "generic",
+        "sponsoring-organization": "Pioneer Orchard, LLC"
+    },
+    {
+        "domain": ".trade",
+        "type": "generic",
+        "sponsoring-organization": "Elite Registry Limited"
+    },
+    {
+        "domain": ".training",
+        "type": "generic",
+        "sponsoring-organization": "Wild Willow, LLC"
+    },
+    {
+        "domain": ".trust",
+        "type": "generic",
+        "sponsoring-organization": "Artemis Internet Inc"
+    },
+    {
+        "domain": ".tui",
+        "type": "generic",
+        "sponsoring-organization": "TUI AG"
+    },
+    {
+        "domain": ".university",
+        "type": "generic",
+        "sponsoring-organization": "Little Station, LLC"
+    },
+    {
+        "domain": ".uno",
+        "type": "generic",
+        "sponsoring-organization": "Dot Latin LLC"
+    },
+    {
+        "domain": ".uol",
+        "type": "generic",
+        "sponsoring-organization": "UBN INTERNET LTDA."
+    },
+    {
+        "domain": ".vacations",
+        "type": "generic",
+        "sponsoring-organization": "Atomic Tigers, LLC"
+    },
+    {
+        "domain": ".vegas",
+        "type": "generic",
+        "sponsoring-organization": "Dot Vegas, Inc."
+    },
+    {
+        "domain": ".ventures",
+        "type": "generic",
+        "sponsoring-organization": "Binky Lake, LLC"
+    },
+    {
+        "domain": ".versicherung",
+        "type": "generic",
+        "sponsoring-organization": "dotversicherung-registry GmbH"
+    },
+    {
+        "domain": ".vet",
+        "type": "generic",
+        "sponsoring-organization": "United TLD Holdco, Ltd"
+    },
+    {
+        "domain": ".viajes",
+        "type": "generic",
+        "sponsoring-organization": "Black Madison, LLC"
+    },
+    {
+        "domain": ".villas",
+        "type": "generic",
+        "sponsoring-organization": "New Sky, LLC"
+    },
+    {
+        "domain": ".vision",
+        "type": "generic",
+        "sponsoring-organization": "Koko Station, LLC"
+    },
+    {
+        "domain": ".vlaanderen",
+        "type": "generic",
+        "sponsoring-organization": "DNS.be vzw"
+    },
+    {
+        "domain": ".vodka",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".vote",
+        "type": "generic",
+        "sponsoring-organization": "Monolith Registry LLC"
+    },
+    {
+        "domain": ".voting",
+        "type": "generic",
+        "sponsoring-organization": "Valuetainment Corp."
+    },
+    {
+        "domain": ".voto",
+        "type": "generic",
+        "sponsoring-organization": "Monolith Registry LLC"
+    },
+    {
+        "domain": ".voyage",
+        "type": "generic",
+        "sponsoring-organization": "Ruby House, LLC"
+    },
+    {
+        "domain": ".wales",
+        "type": "generic",
+        "sponsoring-organization": "Nominet UK"
+    },
+    {
+        "domain": ".wang",
+        "type": "generic",
+        "sponsoring-organization": "Zodiac Registry Limited"
+    },
+    {
+        "domain": ".watch",
+        "type": "generic",
+        "sponsoring-organization": "Sand Shadow, LLC"
+    },
+    {
+        "domain": ".webcam",
+        "type": "generic",
+        "sponsoring-organization": "dot Webcam Limited"
+    },
+    {
+        "domain": ".website",
+        "type": "generic",
+        "sponsoring-organization": "DotWebsite Inc."
+    },
+    {
+        "domain": ".wed",
+        "type": "generic",
+        "sponsoring-organization": "Atgron, Inc."
+    },
+    {
+        "domain": ".wedding",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".whoswho",
+        "type": "generic",
+        "sponsoring-organization": "Who's Who Registry"
+    },
+    {
+        "domain": ".wien",
+        "type": "generic",
+        "sponsoring-organization": "punkt.wien GmbH"
+    },
+    {
+        "domain": ".wiki",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Design, LLC"
+    },
+    {
+        "domain": ".williamhill",
+        "type": "generic",
+        "sponsoring-organization": "William Hill Organization Limited"
+    },
+    {
+        "domain": ".wme",
+        "type": "generic",
+        "sponsoring-organization": "William Morris Endeavor Entertainment, LLC"
+    },
+    {
+        "domain": ".work",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".works",
+        "type": "generic",
+        "sponsoring-organization": "Little Dynamite, LLC"
+    },
+    {
+        "domain": ".world",
+        "type": "generic",
+        "sponsoring-organization": "Bitter Fields, LLC"
+    },
+    {
+        "domain": ".wtc",
+        "type": "generic",
+        "sponsoring-organization": "World Trade Centers Association, Inc."
+    },
+    {
+        "domain": ".wtf",
+        "type": "generic",
+        "sponsoring-organization": "Hidden Way, LLC"
+    },
+    {
+        "domain": ".佛山",
+        "type": "generic",
+        "sponsoring-organization": "Guangzhou YU Wei Information Technology Co., Ltd."
+    },
+    {
+        "domain": ".集团",
+        "type": "generic",
+        "sponsoring-organization": "Eagle Horizon Limited"
+    },
+    {
+        "domain": ".在线",
+        "type": "generic",
+        "sponsoring-organization": "TLD REGISTRY LIMITED"
+    },
+    {
+        "domain": ".八卦",
+        "type": "generic",
+        "sponsoring-organization": "Zodiac Scorpio Limited"
+    },
+    {
+        "domain": ".موقع",
+        "type": "generic",
+        "sponsoring-organization": "Suhub Electronic Establishment"
+    },
+    {
+        "domain": ".公益",
+        "type": "generic",
+        "sponsoring-organization": "China Organizational Name Administration Center"
+    },
+    {
+        "domain": ".公司",
+        "type": "generic",
+        "sponsoring-organization": "Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+    },
+    {
+        "domain": ".移动",
+        "type": "generic",
+        "sponsoring-organization": "Afilias Limited"
+    },
+    {
+        "domain": ".我爱你",
+        "type": "generic",
+        "sponsoring-organization": "Tycoon Treasure Limited"
+    },
+    {
+        "domain": ".москва",
+        "type": "generic",
+        "sponsoring-organization": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+    },
+    {
+        "domain": ".онлайн",
+        "type": "generic",
+        "sponsoring-organization": "CORE Association"
+    },
+    {
+        "domain": ".сайт",
+        "type": "generic",
+        "sponsoring-organization": "CORE Association"
+    },
+    {
+        "domain": ".орг",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry"
+    },
+    {
+        "domain": ".삼성",
+        "type": "generic",
+        "sponsoring-organization": "SAMSUNG SDS CO., LTD"
+    },
+    {
+        "domain": ".商标",
+        "type": "generic",
+        "sponsoring-organization": "HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED"
+    },
+    {
+        "domain": ".商店",
+        "type": "generic",
+        "sponsoring-organization": "Wild Island, LLC"
+    },
+    {
+        "domain": ".商城",
+        "type": "generic",
+        "sponsoring-organization": "Zodiac Aquarius Limited"
+    },
+    {
+        "domain": ".дети",
+        "type": "generic",
+        "sponsoring-organization": "The Foundation for Network Initiatives “The Smart Internet”"
+    },
+    {
+        "domain": ".中文网",
+        "type": "generic",
+        "sponsoring-organization": "TLD REGISTRY LIMITED"
+    },
+    {
+        "domain": ".中信",
+        "type": "generic",
+        "sponsoring-organization": "CITIC Group Corporation"
+    },
+    {
+        "domain": ".谷歌",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".网店",
+        "type": "generic",
+        "sponsoring-organization": "Zodiac Libra Limited"
+    },
+    {
+        "domain": ".संगठन",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry"
+    },
+    {
+        "domain": ".网络",
+        "type": "generic",
+        "sponsoring-organization": "Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+    },
+    {
+        "domain": ".手机",
+        "type": "generic",
+        "sponsoring-organization": "Beijing RITT-Net Technology Development Co., Ltd"
+    },
+    {
+        "domain": ".بازار",
+        "type": "generic",
+        "sponsoring-organization": "CORE Association"
+    },
+    {
+        "domain": ".شبكة",
+        "type": "generic",
+        "sponsoring-organization": "International Domain Registry Pty. Ltd."
+    },
+    {
+        "domain": ".机构",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry"
+    },
+    {
+        "domain": ".组织机构",
+        "type": "generic",
+        "sponsoring-organization": "Public Interest Registry"
+    },
+    {
+        "domain": ".рус",
+        "type": "generic",
+        "sponsoring-organization": "Rusnames Limited"
+    },
+    {
+        "domain": ".みんな",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".グーグル",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".世界",
+        "type": "generic",
+        "sponsoring-organization": "Stable Tone Limited"
+    },
+    {
+        "domain": ".网址",
+        "type": "generic",
+        "sponsoring-organization": "HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED"
+    },
+    {
+        "domain": ".游戏",
+        "type": "generic",
+        "sponsoring-organization": "Spring Fields, LLC"
+    },
+    {
+        "domain": ".vermögensberater",
+        "type": "generic",
+        "sponsoring-organization": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+    },
+    {
+        "domain": ".vermögensberatung",
+        "type": "generic",
+        "sponsoring-organization": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+    },
+    {
+        "domain": ".企业",
+        "type": "generic",
+        "sponsoring-organization": "Dash McCook, LLC"
+    },
+    {
+        "domain": ".广东",
+        "type": "generic",
+        "sponsoring-organization": "Guangzhou YU Wei Information Technology Co., Ltd."
+    },
+    {
+        "domain": ".政务",
+        "type": "generic",
+        "sponsoring-organization": "China Organizational Name Administration Center"
+    },
+    {
+        "domain": ".xyz",
+        "type": "generic",
+        "sponsoring-organization": "XYZ.COM LLC"
+    },
+    {
+        "domain": ".yachts",
+        "type": "generic",
+        "sponsoring-organization": "DERYachts, LLC"
+    },
+    {
+        "domain": ".yandex",
+        "type": "generic",
+        "sponsoring-organization": "YANDEX, LLC"
+    },
+    {
+        "domain": ".yoga",
+        "type": "generic",
+        "sponsoring-organization": "Top Level Domain Holdings Limited"
+    },
+    {
+        "domain": ".yokohama",
+        "type": "generic",
+        "sponsoring-organization": "GMO Registry, Inc."
+    },
+    {
+        "domain": ".youtube",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".zip",
+        "type": "generic",
+        "sponsoring-organization": "Charleston Road Registry Inc."
+    },
+    {
+        "domain": ".zone",
+        "type": "generic",
+        "sponsoring-organization": "Outer Falls, LLC"
+    }
+]
