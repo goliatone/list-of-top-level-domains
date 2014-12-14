@@ -1,0 +1,77 @@
+[
+    {
+        "domain": ".aero",
+        "type": "sponsored",
+        "sponsoring-organization": "Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
+    },
+    {
+        "domain": ".asia",
+        "type": "sponsored",
+        "sponsoring-organization": "DotAsia Organisation Ltd."
+    },
+    {
+        "domain": ".cat",
+        "type": "sponsored",
+        "sponsoring-organization": "Fundacio puntCAT"
+    },
+    {
+        "domain": ".coop",
+        "type": "sponsored",
+        "sponsoring-organization": "DotCooperation LLC"
+    },
+    {
+        "domain": ".edu",
+        "type": "sponsored",
+        "sponsoring-organization": "EDUCAUSE"
+    },
+    {
+        "domain": ".gov",
+        "type": "sponsored",
+        "sponsoring-organization": "General Services Administration\nAttn: QTDC, 2E08 (.gov Domain Registration)"
+    },
+    {
+        "domain": ".int",
+        "type": "sponsored",
+        "sponsoring-organization": "Internet Assigned Numbers Authority"
+    },
+    {
+        "domain": ".jobs",
+        "type": "sponsored",
+        "sponsoring-organization": "Employ Media LLC"
+    },
+    {
+        "domain": ".mil",
+        "type": "sponsored",
+        "sponsoring-organization": "DoD Network Information Center"
+    },
+    {
+        "domain": ".mobi",
+        "type": "sponsored",
+        "sponsoring-organization": "Afilias Technologies Limited dba dotMobi"
+    },
+    {
+        "domain": ".museum",
+        "type": "sponsored",
+        "sponsoring-organization": "Museum Domain Management Association"
+    },
+    {
+        "domain": ".post",
+        "type": "sponsored",
+        "sponsoring-organization": "Universal Postal Union"
+    },
+    {
+        "domain": ".tel",
+        "type": "sponsored",
+        "sponsoring-organization": "Telnic Ltd."
+    },
+    {
+        "domain": ".travel",
+        "type": "sponsored",
+        "sponsoring-organization": "Tralliance Registry Management Company, LLC."
+    },
+    {
+        "domain": ".xxx",
+        "type": "sponsored",
+        "sponsoring-organization": "ICM Registry LLC"
+    }
+]
